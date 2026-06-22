@@ -70,5 +70,17 @@
     "runtime": "0 ms",
     "memory": "16.3 MB",
     "timestamp": "2026-06-22T10:18:22.613Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "50",
+    "title": "Pow(x, n)",
+    "slug": "powx-n",
+    "difficulty": "Medium",
+    "language": "C",
+    "verdict": "Accepted",
+    "runtime": "0 ms",
+    "memory": "8.8 MB",
+    "timestamp": "2026-06-22T17:57:46.707Z"
   }
 ]

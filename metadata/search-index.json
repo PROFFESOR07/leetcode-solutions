@@ -58,6 +58,20 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "difficulty": "Medium",
+      "topics": [
+        "Math",
+        "Recursion"
+      ],
+      "patterns": [],
+      "languages": [
+        "c"
+      ]
     }
   ]
 }

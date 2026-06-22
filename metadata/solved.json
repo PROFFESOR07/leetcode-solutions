@@ -94,5 +94,21 @@
     "runtime": "0 ms",
     "memory": "16.3 MB",
     "path": "solutions/Linked_List/0061_Rotate_List/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "50",
+    "title": "Pow(x, n)",
+    "slug": "powx-n",
+    "difficulty": "Medium",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "language": "C",
+    "timestamp": "2026-06-22T17:57:46.707Z",
+    "runtime": "0 ms",
+    "memory": "8.8 MB",
+    "path": "solutions/Math/0050_Powx_n/solution.c"
   }
 ]
