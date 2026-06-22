@@ -30,5 +30,21 @@
     "runtime": "2 ms",
     "memory": "14.7 MB",
     "path": "solutions/Array/0001_Two_Sum/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "1",
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-22T08:53:35.128Z",
+    "runtime": "0 ms",
+    "memory": "14.9 MB",
+    "path": "solutions/Array/0001_Two_Sum/solution.cpp"
   }
 ]

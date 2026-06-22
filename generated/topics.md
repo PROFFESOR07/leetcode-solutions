@@ -4,12 +4,12 @@
 
 | Topic | Attempted | Accepted | Acceptance Rate |
 | :--- | :--- | :--- | :--- |
-| Array | `2` | `1` | `50%` |
-| Hash Table | `2` | `1` | `50%` |
+| Array | `3` | `1` | `33%` |
+| Hash Table | `3` | `1` | `33%` |
 
 ## Analytics Insights
 
 * **Strongest Topics (>=3 solves)**: `N/A` 💪
-* **Weakest Topics (>=3 attempts)**: `N/A` ⚠️
+* **Weakest Topics (>=3 attempts)**: `Array`, `Hash Table` ⚠️
 * **Most Practiced Topics**: `Array`, `Hash Table` 🚀
 * **Least Practiced Topics**: `Array`, `Hash Table` 🔍
