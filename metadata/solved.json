@@ -46,5 +46,22 @@
     "runtime": "0 ms",
     "memory": "14.9 MB",
     "path": "solutions/Array/0001_Two_Sum/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2",
+    "title": "Add Two Numbers",
+    "slug": "add-two-numbers",
+    "difficulty": "Medium",
+    "topics": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-22T08:56:38.172Z",
+    "runtime": "10 ms",
+    "memory": "77.2 MB",
+    "path": "solutions/Linked_List/0002_Add_Two_Numbers/solution.cpp"
   }
 ]

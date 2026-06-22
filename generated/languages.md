@@ -4,4 +4,4 @@ Distribution of solved problems:
 
 | Language | Solves |
 | :--- | :--- |
-| CPP | `1` |
+| CPP | `2` |

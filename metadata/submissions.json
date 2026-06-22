@@ -34,5 +34,17 @@
     "runtime": "0 ms",
     "memory": "14.9 MB",
     "timestamp": "2026-06-22T08:53:35.128Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2",
+    "title": "Add Two Numbers",
+    "slug": "add-two-numbers",
+    "difficulty": "Medium",
+    "language": "C++",
+    "verdict": "Accepted",
+    "runtime": "10 ms",
+    "memory": "77.2 MB",
+    "timestamp": "2026-06-22T08:56:38.172Z"
   }
 ]

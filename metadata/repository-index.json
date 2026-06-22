@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-22T08:57:54.810Z",
-  "totalSolved": 1,
+  "lastUpdated": "2026-06-22T09:02:54.849Z",
+  "totalSolved": 2,
   "languages": {
-    "cpp": 1
+    "cpp": 2
   },
   "files": {
-    "1_cpp": "solutions/Array/0001_Two_Sum/solution.cpp"
+    "1_cpp": "solutions/Array/0001_Two_Sum/solution.cpp",
+    "2_cpp": "solutions/Linked_List/0002_Add_Two_Numbers/solution.cpp"
   },
   "analytics": {
     "streaks": {
@@ -16,7 +17,7 @@
     },
     "difficulties": {
       "easy": 1,
-      "medium": 0,
+      "medium": 1,
       "hard": 0
     },
     "topics": {
@@ -27,10 +28,23 @@
       "Hash Table": {
         "attempted": 3,
         "accepted": 1
+      },
+      "Linked List": {
+        "attempted": 1,
+        "accepted": 1
+      },
+      "Math": {
+        "attempted": 1,
+        "accepted": 1
+      },
+      "Recursion": {
+        "attempted": 1,
+        "accepted": 1
       }
     },
     "patterns": {
-      "TwoPointers": 1
+      "TwoPointers": 1,
+      "FastSlowPointers": 1
     }
   }
 }
