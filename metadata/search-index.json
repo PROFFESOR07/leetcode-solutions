@@ -31,6 +31,19 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "difficulty": "Easy",
+      "topics": [
+        "Math"
+      ],
+      "patterns": [],
+      "languages": [
+        "c++"
+      ]
     }
   ]
 }

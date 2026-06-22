@@ -46,5 +46,17 @@
     "runtime": "10 ms",
     "memory": "77.2 MB",
     "timestamp": "2026-06-22T08:56:38.172Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "9",
+    "title": "Palindrome Number",
+    "slug": "palindrome-number",
+    "difficulty": "Easy",
+    "language": "C++",
+    "verdict": "Accepted",
+    "runtime": "2 ms",
+    "memory": "8.5 MB",
+    "timestamp": "2026-06-22T09:19:29.241Z"
   }
 ]

@@ -63,5 +63,20 @@
     "runtime": "10 ms",
     "memory": "77.2 MB",
     "path": "solutions/Linked_List/0002_Add_Two_Numbers/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "9",
+    "title": "Palindrome Number",
+    "slug": "palindrome-number",
+    "difficulty": "Easy",
+    "topics": [
+      "Math"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-22T09:19:29.241Z",
+    "runtime": "2 ms",
+    "memory": "8.5 MB",
+    "path": "solutions/Math/0009_Palindrome_Number/solution.cpp"
   }
 ]

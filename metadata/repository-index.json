@@ -1,13 +1,14 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-22T09:02:54.849Z",
-  "totalSolved": 2,
+  "lastUpdated": "2026-06-22T09:19:33.364Z",
+  "totalSolved": 3,
   "languages": {
-    "cpp": 2
+    "cpp": 3
   },
   "files": {
     "1_cpp": "solutions/Array/0001_Two_Sum/solution.cpp",
-    "2_cpp": "solutions/Linked_List/0002_Add_Two_Numbers/solution.cpp"
+    "2_cpp": "solutions/Linked_List/0002_Add_Two_Numbers/solution.cpp",
+    "9_cpp": "solutions/Math/0009_Palindrome_Number/solution.cpp"
   },
   "analytics": {
     "streaks": {
@@ -16,7 +17,7 @@
       "lastSolveDate": "2026-06-22"
     },
     "difficulties": {
-      "easy": 1,
+      "easy": 2,
       "medium": 1,
       "hard": 0
     },
@@ -34,8 +35,8 @@
         "accepted": 1
       },
       "Math": {
-        "attempted": 1,
-        "accepted": 1
+        "attempted": 2,
+        "accepted": 2
       },
       "Recursion": {
         "attempted": 1,
