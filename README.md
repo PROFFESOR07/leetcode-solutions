@@ -7,7 +7,7 @@ Automatically synced using **LeetCode AutoSync** extension.
 * **Total Solved**: `1`
 * **Current Streak**: `1 days` 🔥
 * **Best Streak**: `1 days` 🏆
-* **Last Synced**: `2026-06-22T08:53:39.774Z`
+* **Last Synced**: `2026-06-22T08:56:43.210Z`
 
 ---
 

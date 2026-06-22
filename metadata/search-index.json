@@ -12,6 +12,7 @@
       ],
       "patterns": [],
       "languages": [
+        "c++",
         "c++"
       ]
     }

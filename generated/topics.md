@@ -4,8 +4,8 @@
 
 | Topic | Attempted | Accepted | Acceptance Rate |
 | :--- | :--- | :--- | :--- |
-| Array | `1` | `1` | `100%` |
-| Hash Table | `1` | `1` | `100%` |
+| Array | `2` | `1` | `50%` |
+| Hash Table | `2` | `1` | `50%` |
 
 ## Analytics Insights
 
