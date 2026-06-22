@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "problems": [
+    {
+      "id": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "patterns": [],
+      "languages": [
+        "c++"
+      ]
+    }
+  ]
+}

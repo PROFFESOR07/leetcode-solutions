@@ -1,0 +1,14 @@
+[
+  {
+    "schemaVersion": 1,
+    "frontendId": "1",
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "difficulty": "Easy",
+    "language": "C++",
+    "verdict": "Accepted",
+    "runtime": "1 ms",
+    "memory": "14.7 MB",
+    "timestamp": "2026-06-22T08:45:01.485Z"
+  }
+]
