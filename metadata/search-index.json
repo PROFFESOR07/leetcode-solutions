@@ -86,6 +86,23 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "difficulty": "Medium",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Backtracking"
+      ],
+      "patterns": [
+        "Backtracking"
+      ],
+      "languages": [
+        "c++"
+      ]
     }
   ]
 }

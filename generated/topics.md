@@ -10,10 +10,13 @@
 | Array | `3` | `1` | `33%` |
 | Hash Table | `3` | `1` | `33%` |
 | Two Pointers | `1` | `1` | `100%` |
+| String | `1` | `1` | `100%` |
+| Dynamic Programming | `1` | `1` | `100%` |
+| Backtracking | `1` | `1` | `100%` |
 
 ## Analytics Insights
 
 * **Strongest Topics (>=3 solves)**: `Math`, `Recursion` 💪
 * **Weakest Topics (>=3 attempts)**: `Array`, `Hash Table`, `Math` ⚠️
 * **Most Practiced Topics**: `Math`, `Array`, `Hash Table` 🚀
-* **Least Practiced Topics**: `Two Pointers`, `Linked List`, `Array` 🔍
+* **Least Practiced Topics**: `Two Pointers`, `String`, `Dynamic Programming` 🔍

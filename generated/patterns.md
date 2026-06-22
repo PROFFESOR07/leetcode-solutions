@@ -6,3 +6,5 @@ Paradigms detected based on topic mappings:
 | :--- | :--- |
 | TwoPointers | `2` |
 | FastSlowPointers | `2` |
+| DynamicProgramming | `1` |
+| Backtracking | `1` |

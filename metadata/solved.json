@@ -126,5 +126,22 @@
     "runtime": "0 ms",
     "memory": "7.9 MB",
     "path": "solutions/Math/1922_Count_Good_Numbers/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "22",
+    "title": "Generate Parentheses",
+    "slug": "generate-parentheses",
+    "difficulty": "Medium",
+    "topics": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-22T18:30:42.448Z",
+    "runtime": "4 ms",
+    "memory": "15.7 MB",
+    "path": "solutions/String/0022_Generate_Parentheses/solution.cpp"
   }
 ]

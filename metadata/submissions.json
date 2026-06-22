@@ -94,5 +94,17 @@
     "runtime": "0 ms",
     "memory": "7.9 MB",
     "timestamp": "2026-06-22T18:07:17.302Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "22",
+    "title": "Generate Parentheses",
+    "slug": "generate-parentheses",
+    "difficulty": "Medium",
+    "language": "C++",
+    "verdict": "Accepted",
+    "runtime": "4 ms",
+    "memory": "15.7 MB",
+    "timestamp": "2026-06-22T18:30:42.448Z"
   }
 ]
