@@ -78,5 +78,21 @@
     "runtime": "2 ms",
     "memory": "8.5 MB",
     "path": "solutions/Math/0009_Palindrome_Number/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "61",
+    "title": "Rotate List",
+    "slug": "rotate-list",
+    "difficulty": "Medium",
+    "topics": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-22T10:18:22.613Z",
+    "runtime": "0 ms",
+    "memory": "16.3 MB",
+    "path": "solutions/Linked_List/0061_Rotate_List/solution.cpp"
   }
 ]

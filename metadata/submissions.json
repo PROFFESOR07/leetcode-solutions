@@ -58,5 +58,17 @@
     "runtime": "2 ms",
     "memory": "8.5 MB",
     "timestamp": "2026-06-22T09:19:29.241Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "61",
+    "title": "Rotate List",
+    "slug": "rotate-list",
+    "difficulty": "Medium",
+    "language": "C++",
+    "verdict": "Accepted",
+    "runtime": "0 ms",
+    "memory": "16.3 MB",
+    "timestamp": "2026-06-22T10:18:22.613Z"
   }
 ]

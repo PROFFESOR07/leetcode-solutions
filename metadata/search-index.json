@@ -44,6 +44,20 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "difficulty": "Medium",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "patterns": [],
+      "languages": [
+        "c++"
+      ]
     }
   ]
 }
