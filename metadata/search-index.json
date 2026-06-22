@@ -72,6 +72,20 @@
       "languages": [
         "c"
       ]
+    },
+    {
+      "id": "1922",
+      "title": "Count Good Numbers",
+      "slug": "count-good-numbers",
+      "difficulty": "Medium",
+      "topics": [
+        "Math",
+        "Recursion"
+      ],
+      "patterns": [],
+      "languages": [
+        "c++"
+      ]
     }
   ]
 }

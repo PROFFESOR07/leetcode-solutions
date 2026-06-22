@@ -4,5 +4,5 @@ Distribution of solved problems:
 
 | Language | Solves |
 | :--- | :--- |
-| CPP | `4` |
+| CPP | `5` |
 | C | `1` |

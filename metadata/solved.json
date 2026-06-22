@@ -110,5 +110,21 @@
     "runtime": "0 ms",
     "memory": "8.8 MB",
     "path": "solutions/Math/0050_Powx_n/solution.c"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "1922",
+    "title": "Count Good Numbers",
+    "slug": "count-good-numbers",
+    "difficulty": "Medium",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-22T18:07:17.302Z",
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "path": "solutions/Math/1922_Count_Good_Numbers/solution.cpp"
   }
 ]
