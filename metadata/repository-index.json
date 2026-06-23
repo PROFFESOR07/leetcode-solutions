@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-22T18:30:47.938Z",
-  "totalSolved": 7,
+  "lastUpdated": "2026-06-23T06:00:36.445Z",
+  "totalSolved": 8,
   "languages": {
-    "cpp": 6,
+    "cpp": 7,
     "c": 1
   },
   "files": {
@@ -13,18 +13,19 @@
     "61_cpp": "solutions/Linked_List/0061_Rotate_List/solution.cpp",
     "50_c": "solutions/Math/0050_Powx_n/solution.c",
     "1922_cpp": "solutions/Math/1922_Count_Good_Numbers/solution.cpp",
-    "22_cpp": "solutions/String/0022_Generate_Parentheses/solution.cpp"
+    "22_cpp": "solutions/String/0022_Generate_Parentheses/solution.cpp",
+    "25_cpp": "solutions/Linked_List/0025_Reverse_Nodes_in_k_Group/solution.cpp"
   },
   "analytics": {
     "streaks": {
-      "currentStreak": 1,
-      "bestStreak": 1,
-      "lastSolveDate": "2026-06-22"
+      "currentStreak": 2,
+      "bestStreak": 2,
+      "lastSolveDate": "2026-06-23"
     },
     "difficulties": {
       "easy": 2,
       "medium": 5,
-      "hard": 0
+      "hard": 1
     },
     "topics": {
       "Array": {
@@ -36,16 +37,16 @@
         "accepted": 1
       },
       "Linked List": {
-        "attempted": 2,
-        "accepted": 2
+        "attempted": 3,
+        "accepted": 3
       },
       "Math": {
         "attempted": 4,
         "accepted": 4
       },
       "Recursion": {
-        "attempted": 3,
-        "accepted": 3
+        "attempted": 4,
+        "accepted": 4
       },
       "Two Pointers": {
         "attempted": 1,
@@ -66,7 +67,7 @@
     },
     "patterns": {
       "TwoPointers": 2,
-      "FastSlowPointers": 2,
+      "FastSlowPointers": 3,
       "DynamicProgramming": 1,
       "Backtracking": 1
     }

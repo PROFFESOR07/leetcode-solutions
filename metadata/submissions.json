@@ -106,5 +106,17 @@
     "runtime": "4 ms",
     "memory": "15.7 MB",
     "timestamp": "2026-06-22T18:30:42.448Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "25",
+    "title": "Reverse Nodes in k-Group",
+    "slug": "reverse-nodes-in-k-group",
+    "difficulty": "Hard",
+    "language": "C++",
+    "verdict": "Accepted",
+    "runtime": "0 ms",
+    "memory": "16.6 MB",
+    "timestamp": "2026-06-23T05:59:58.612Z"
   }
 ]

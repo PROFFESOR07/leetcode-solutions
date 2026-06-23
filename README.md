@@ -4,10 +4,10 @@ Automatically synced using **LeetCode AutoSync** extension.
 
 ## 📊 Quick Overview
 
-* **Total Solved**: `7`
-* **Current Streak**: `1 days` 🔥
-* **Best Streak**: `1 days` 🏆
-* **Last Synced**: `2026-06-22T18:30:47.938Z`
+* **Total Solved**: `8`
+* **Current Streak**: `2 days` 🔥
+* **Best Streak**: `2 days` 🏆
+* **Last Synced**: `2026-06-23T06:00:36.445Z`
 
 ---
 
