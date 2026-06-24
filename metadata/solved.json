@@ -159,5 +159,22 @@
     "runtime": "0 ms",
     "memory": "16.6 MB",
     "path": "solutions/Linked_List/0025_Reverse_Nodes_in_k_Group/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "292",
+    "title": "Nim Game",
+    "slug": "nim-game",
+    "difficulty": "Easy",
+    "topics": [
+      "Math",
+      "Brainteaser",
+      "Game Theory"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-24T09:42:46.496Z",
+    "runtime": "0 ms",
+    "memory": "7.8 MB",
+    "path": "solutions/Math/0292_Nim_Game/solution.cpp"
   }
 ]

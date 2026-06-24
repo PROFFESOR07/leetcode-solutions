@@ -117,6 +117,21 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "292",
+      "title": "Nim Game",
+      "slug": "nim-game",
+      "difficulty": "Easy",
+      "topics": [
+        "Math",
+        "Brainteaser",
+        "Game Theory"
+      ],
+      "patterns": [],
+      "languages": [
+        "c++"
+      ]
     }
   ]
 }

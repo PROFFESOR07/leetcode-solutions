@@ -4,7 +4,7 @@
 
 | Topic | Attempted | Accepted | Acceptance Rate |
 | :--- | :--- | :--- | :--- |
-| Math | `4` | `4` | `100%` |
+| Math | `5` | `5` | `100%` |
 | Recursion | `4` | `4` | `100%` |
 | Linked List | `3` | `3` | `100%` |
 | Array | `3` | `1` | `33%` |
@@ -13,6 +13,8 @@
 | String | `1` | `1` | `100%` |
 | Dynamic Programming | `1` | `1` | `100%` |
 | Backtracking | `1` | `1` | `100%` |
+| Brainteaser | `1` | `1` | `100%` |
+| Game Theory | `1` | `1` | `100%` |
 
 ## Analytics Insights
 
