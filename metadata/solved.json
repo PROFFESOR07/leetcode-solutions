@@ -176,5 +176,21 @@
     "runtime": "0 ms",
     "memory": "7.8 MB",
     "path": "solutions/Math/0292_Nim_Game/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "27",
+    "title": "Remove Element",
+    "slug": "remove-element",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-24T09:52:00.397Z",
+    "runtime": "0 ms",
+    "memory": "11.7 MB",
+    "path": "solutions/Array/0027_Remove_Element/solution.cpp"
   }
 ]

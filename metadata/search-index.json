@@ -132,6 +132,20 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "patterns": [],
+      "languages": [
+        "c++"
+      ]
     }
   ]
 }
