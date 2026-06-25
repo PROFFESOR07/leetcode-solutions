@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-25T10:11:44.258Z",
-  "totalSolved": 12,
+  "lastUpdated": "2026-06-25T10:30:04.092Z",
+  "totalSolved": 13,
   "languages": {
-    "cpp": 11,
+    "cpp": 12,
     "c": 1
   },
   "files": {
@@ -18,7 +18,8 @@
     "292_cpp": "solutions/Math/0292_Nim_Game/solution.cpp",
     "27_cpp": "solutions/Array/0027_Remove_Element/solution.cpp",
     "169_cpp": "solutions/Array/0169_Majority_Element/solution.cpp",
-    "39_cpp": "solutions/Array/0039_Combination_Sum/solution.cpp"
+    "39_cpp": "solutions/Array/0039_Combination_Sum/solution.cpp",
+    "121_cpp": "solutions/Array/0121_Best_Time_to_Buy_and_Sell_Stock/solution.cpp"
   },
   "analytics": {
     "streaks": {
@@ -27,14 +28,14 @@
       "lastSolveDate": "2026-06-25"
     },
     "difficulties": {
-      "easy": 5,
+      "easy": 6,
       "medium": 6,
       "hard": 1
     },
     "topics": {
       "Array": {
-        "attempted": 6,
-        "accepted": 4
+        "attempted": 7,
+        "accepted": 5
       },
       "Hash Table": {
         "attempted": 4,
@@ -61,8 +62,8 @@
         "accepted": 1
       },
       "Dynamic Programming": {
-        "attempted": 1,
-        "accepted": 1
+        "attempted": 2,
+        "accepted": 2
       },
       "Backtracking": {
         "attempted": 2,
@@ -90,9 +91,9 @@
       }
     },
     "patterns": {
-      "TwoPointers": 6,
+      "TwoPointers": 7,
       "FastSlowPointers": 3,
-      "DynamicProgramming": 1,
+      "DynamicProgramming": 2,
       "Backtracking": 2
     }
   }

@@ -2,16 +2,16 @@
 
 ## 🗺️ Striver A-Z
 
-**Overall Progress**: `1 / 8` (`13%`)
+**Overall Progress**: `2 / 8` (`25%`)
 ```
-Progress: [███░░░░░░░░░░░░░░░░░] 13%
+Progress: [█████░░░░░░░░░░░░░░░] 25%
 ```
 
 ### Section breakdowns
 
 | Section | Solved | Completion | Progress |
 | :--- | :--- | :--- | :--- |
-| Arrays | `1 / 3` | `33%` | `███░░░░░░░` |
+| Arrays | `2 / 3` | `67%` | `███████░░░` |
 | Stack | `0 / 1` | `0%` | `░░░░░░░░░░` |
 | Graphs | `0 / 1` | `0%` | `░░░░░░░░░░` |
 | Linked List | `0 / 1` | `0%` | `░░░░░░░░░░` |
@@ -46,16 +46,16 @@ Progress: [███░░░░░░░░░░░░░░░░░] 14%
 
 ## 🗺️ Blind 75
 
-**Overall Progress**: `1 / 25` (`4%`)
+**Overall Progress**: `2 / 25` (`8%`)
 ```
-Progress: [█░░░░░░░░░░░░░░░░░░░] 4%
+Progress: [██░░░░░░░░░░░░░░░░░░] 8%
 ```
 
 ### Section breakdowns
 
 | Section | Solved | Completion | Progress |
 | :--- | :--- | :--- | :--- |
-| Array | `1 / 6` | `17%` | `██░░░░░░░░` |
+| Array | `2 / 6` | `33%` | `███░░░░░░░` |
 | Linked List | `0 / 4` | `0%` | `░░░░░░░░░░` |
 | Dynamic Programming | `0 / 4` | `0%` | `░░░░░░░░░░` |
 | Tree | `0 / 4` | `0%` | `░░░░░░░░░░` |
@@ -66,16 +66,16 @@ Progress: [█░░░░░░░░░░░░░░░░░░░] 4%
 
 ## 🗺️ Grind 169
 
-**Overall Progress**: `2 / 24` (`8%`)
+**Overall Progress**: `3 / 24` (`13%`)
 ```
-Progress: [██░░░░░░░░░░░░░░░░░░] 8%
+Progress: [███░░░░░░░░░░░░░░░░░] 13%
 ```
 
 ### Section breakdowns
 
 | Section | Solved | Completion | Progress |
 | :--- | :--- | :--- | :--- |
-| Array | `2 / 4` | `50%` | `█████░░░░░` |
+| Array | `3 / 4` | `75%` | `████████░░` |
 | Linked List | `0 / 4` | `0%` | `░░░░░░░░░░` |
 | String | `0 / 4` | `0%` | `░░░░░░░░░░` |
 | Binary Tree | `0 / 3` | `0%` | `░░░░░░░░░░` |

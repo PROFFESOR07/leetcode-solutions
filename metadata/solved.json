@@ -227,5 +227,21 @@
     "runtime": "3 ms",
     "memory": "14 MB",
     "path": "solutions/Array/0039_Combination_Sum/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "121",
+    "title": "Best Time to Buy and Sell Stock",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-25T10:29:58.208Z",
+    "runtime": "0 ms",
+    "memory": "97.3 MB",
+    "path": "solutions/Array/0121_Best_Time_to_Buy_and_Sell_Stock/solution.cpp"
   }
 ]
