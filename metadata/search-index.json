@@ -296,6 +296,17 @@
       "languages": [
         "pythondata"
       ]
+    },
+    {
+      "id": "2885",
+      "title": "Rename Columns",
+      "slug": "rename-columns",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }

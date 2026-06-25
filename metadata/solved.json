@@ -364,5 +364,18 @@
     "runtime": "293 ms",
     "memory": "66.6 MB",
     "path": "solutions/Uncategorized/2884_Modify_Columns/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2885",
+    "title": "Rename Columns",
+    "slug": "rename-columns",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:44:48.656Z",
+    "runtime": "294 ms",
+    "memory": "66.7 MB",
+    "path": "solutions/Uncategorized/2885_Rename_Columns/solution.txt"
   }
 ]

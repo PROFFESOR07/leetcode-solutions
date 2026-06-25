@@ -286,5 +286,17 @@
     "runtime": "293 ms",
     "memory": "66.6 MB",
     "timestamp": "2026-06-25T11:41:57.979Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2885",
+    "title": "Rename Columns",
+    "slug": "rename-columns",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "verdict": "Accepted",
+    "runtime": "294 ms",
+    "memory": "66.7 MB",
+    "timestamp": "2026-06-25T11:44:48.656Z"
   }
 ]

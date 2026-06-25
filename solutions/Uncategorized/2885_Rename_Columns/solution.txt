@@ -1,0 +1,20 @@
+/*
+ * Problem ID: 2885
+ * Title: Rename Columns
+ * Difficulty: Easy
+ * Topics: 
+ * LeetCode URL: https://leetcode.com/problems/rename-columns/
+ * Language: pythondata
+ * Submission Date: 2026-06-25T11:44:48.656Z
+ */
+
+import pandas as pd
+
+def renameColumns(students: pd.DataFrame) -> pd.DataFrame:
+    students = students.rename(columns={
+        "id":"student_id",
+        "first":"first_name",
+        "last":"last_name",
+        "age":"age_in_years"
+    })
+    return students
