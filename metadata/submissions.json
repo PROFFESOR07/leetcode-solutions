@@ -250,5 +250,17 @@
     "runtime": "306 ms",
     "memory": "66.5 MB",
     "timestamp": "2026-06-25T11:34:36.278Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2882",
+    "title": "Drop Duplicate Rows",
+    "slug": "drop-duplicate-rows",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "verdict": "Accepted",
+    "runtime": "263 ms",
+    "memory": "66.9 MB",
+    "timestamp": "2026-06-25T11:36:14.320Z"
   }
 ]

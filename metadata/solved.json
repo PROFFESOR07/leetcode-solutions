@@ -325,5 +325,18 @@
     "runtime": "306 ms",
     "memory": "66.5 MB",
     "path": "solutions/Uncategorized/2881_Create_a_New_Column/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2882",
+    "title": "Drop Duplicate Rows",
+    "slug": "drop-duplicate-rows",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:36:14.320Z",
+    "runtime": "263 ms",
+    "memory": "66.9 MB",
+    "path": "solutions/Uncategorized/2882_Drop_Duplicate_Rows/solution.txt"
   }
 ]

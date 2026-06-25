@@ -263,6 +263,17 @@
       "languages": [
         "pythondata"
       ]
+    },
+    {
+      "id": "2882",
+      "title": "Drop Duplicate Rows",
+      "slug": "drop-duplicate-rows",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }
