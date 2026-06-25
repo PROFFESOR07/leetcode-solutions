@@ -390,5 +390,18 @@
     "runtime": "274 ms",
     "memory": "66.3 MB",
     "path": "solutions/Uncategorized/2886_Change_Data_Type/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2887",
+    "title": "Fill Missing Data",
+    "slug": "fill-missing-data",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:49:12.519Z",
+    "runtime": "288 ms",
+    "memory": "66.4 MB",
+    "path": "solutions/Uncategorized/2887_Fill_Missing_Data/solution.txt"
   }
 ]

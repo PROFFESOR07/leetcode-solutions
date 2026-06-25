@@ -1,0 +1,15 @@
+/*
+ * Problem ID: 2887
+ * Title: Fill Missing Data
+ * Difficulty: Easy
+ * Topics: 
+ * LeetCode URL: https://leetcode.com/problems/fill-missing-data/
+ * Language: pythondata
+ * Submission Date: 2026-06-25T11:49:12.519Z
+ */
+
+import pandas as pd
+
+def fillMissingValues(products: pd.DataFrame) -> pd.DataFrame:
+    products["quantity"] = products["quantity"].fillna(0)
+    return products

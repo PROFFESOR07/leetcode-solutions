@@ -318,6 +318,17 @@
       "languages": [
         "pythondata"
       ]
+    },
+    {
+      "id": "2887",
+      "title": "Fill Missing Data",
+      "slug": "fill-missing-data",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }

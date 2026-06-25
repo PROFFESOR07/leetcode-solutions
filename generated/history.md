@@ -30,3 +30,4 @@ Timeline of all solved questions (ordered by ID):
 | 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2884_Modify_Columns/solution.txt) | 25 Jun 2026 |
 | 2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2885_Rename_Columns/solution.txt) | 25 Jun 2026 |
 | 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2886_Change_Data_Type/solution.txt) | 25 Jun 2026 |
+| 2887 | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2887_Fill_Missing_Data/solution.txt) | 25 Jun 2026 |
