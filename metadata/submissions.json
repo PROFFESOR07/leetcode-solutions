@@ -262,5 +262,17 @@
     "runtime": "263 ms",
     "memory": "66.9 MB",
     "timestamp": "2026-06-25T11:36:14.320Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2883",
+    "title": "Drop Missing Data",
+    "slug": "drop-missing-data",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "verdict": "Accepted",
+    "runtime": "295 ms",
+    "memory": "67.2 MB",
+    "timestamp": "2026-06-25T11:39:54.947Z"
   }
 ]

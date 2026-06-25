@@ -338,5 +338,18 @@
     "runtime": "263 ms",
     "memory": "66.9 MB",
     "path": "solutions/Uncategorized/2882_Drop_Duplicate_Rows/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2883",
+    "title": "Drop Missing Data",
+    "slug": "drop-missing-data",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:39:54.947Z",
+    "runtime": "295 ms",
+    "memory": "67.2 MB",
+    "path": "solutions/Uncategorized/2883_Drop_Missing_Data/solution.txt"
   }
 ]

@@ -274,6 +274,17 @@
       "languages": [
         "pythondata"
       ]
+    },
+    {
+      "id": "2883",
+      "title": "Drop Missing Data",
+      "slug": "drop-missing-data",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }

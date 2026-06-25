@@ -1,0 +1,14 @@
+/*
+ * Problem ID: 2883
+ * Title: Drop Missing Data
+ * Difficulty: Easy
+ * Topics: 
+ * LeetCode URL: https://leetcode.com/problems/drop-missing-data/
+ * Language: pythondata
+ * Submission Date: 2026-06-25T11:39:54.947Z
+ */
+
+import pandas as pd
+
+def dropMissingData(students: pd.DataFrame) -> pd.DataFrame:
+    return students.dropna(subset=["name"])
