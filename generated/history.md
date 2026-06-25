@@ -21,3 +21,4 @@ Timeline of all solved questions (ordered by ID):
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | **Easy** | Math, Brainteaser, Game Theory | `C++` | [View Solution](../solutions/Math/0292_Nim_Game/solution.cpp) | 24 Jun 2026 |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | **Medium** | Math, Recursion | `C++` | [View Solution](../solutions/Math/1922_Count_Good_Numbers/solution.cpp) | 22 Jun 2026 |
 | 2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2877_Create_a_DataFrame_from_List/solution.txt) | 25 Jun 2026 |
+| 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2878_Get_the_Size_of_a_DataFrame/solution.txt) | 25 Jun 2026 |

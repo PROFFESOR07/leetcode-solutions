@@ -273,5 +273,18 @@
     "runtime": "269 ms",
     "memory": "66.2 MB",
     "path": "solutions/Uncategorized/2877_Create_a_DataFrame_from_List/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2878",
+    "title": "Get the Size of a DataFrame",
+    "slug": "get-the-size-of-a-dataframe",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:23:40.675Z",
+    "runtime": "261 ms",
+    "memory": "66.2 MB",
+    "path": "solutions/Uncategorized/2878_Get_the_Size_of_a_DataFrame/solution.txt"
   }
 ]

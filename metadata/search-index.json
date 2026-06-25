@@ -219,6 +219,17 @@
       "languages": [
         "pythondata"
       ]
+    },
+    {
+      "id": "2878",
+      "title": "Get the Size of a DataFrame",
+      "slug": "get-the-size-of-a-dataframe",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }

@@ -202,5 +202,17 @@
     "runtime": "269 ms",
     "memory": "66.2 MB",
     "timestamp": "2026-06-25T11:20:49.459Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2878",
+    "title": "Get the Size of a DataFrame",
+    "slug": "get-the-size-of-a-dataframe",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "verdict": "Accepted",
+    "runtime": "261 ms",
+    "memory": "66.2 MB",
+    "timestamp": "2026-06-25T11:23:40.675Z"
   }
 ]
