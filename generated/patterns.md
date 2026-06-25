@@ -8,3 +8,4 @@ Paradigms detected based on topic mappings:
 | FastSlowPointers | `3` |
 | DynamicProgramming | `2` |
 | Backtracking | `2` |
+| SlidingWindow | `1` |

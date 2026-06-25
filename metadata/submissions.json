@@ -178,5 +178,17 @@
     "runtime": "0 ms",
     "memory": "97.3 MB",
     "timestamp": "2026-06-25T10:29:58.208Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "slug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "language": "C++",
+    "verdict": "Accepted",
+    "runtime": "23 ms",
+    "memory": "24.2 MB",
+    "timestamp": "2026-06-25T10:46:06.400Z"
   }
 ]
