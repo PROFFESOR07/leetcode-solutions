@@ -285,6 +285,17 @@
       "languages": [
         "pythondata"
       ]
+    },
+    {
+      "id": "2884",
+      "title": "Modify Columns",
+      "slug": "modify-columns",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }

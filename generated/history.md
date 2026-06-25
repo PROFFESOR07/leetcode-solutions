@@ -27,3 +27,4 @@ Timeline of all solved questions (ordered by ID):
 | 2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2881_Create_a_New_Column/solution.txt) | 25 Jun 2026 |
 | 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2882_Drop_Duplicate_Rows/solution.txt) | 25 Jun 2026 |
 | 2883 | [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2883_Drop_Missing_Data/solution.txt) | 25 Jun 2026 |
+| 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2884_Modify_Columns/solution.txt) | 25 Jun 2026 |

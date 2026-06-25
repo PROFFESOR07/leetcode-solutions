@@ -351,5 +351,18 @@
     "runtime": "295 ms",
     "memory": "67.2 MB",
     "path": "solutions/Uncategorized/2883_Drop_Missing_Data/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2884",
+    "title": "Modify Columns",
+    "slug": "modify-columns",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:41:57.979Z",
+    "runtime": "293 ms",
+    "memory": "66.6 MB",
+    "path": "solutions/Uncategorized/2884_Modify_Columns/solution.txt"
   }
 ]

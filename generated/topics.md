@@ -4,7 +4,7 @@
 
 | Topic | Attempted | Accepted | Acceptance Rate |
 | :--- | :--- | :--- | :--- |
-| Uncategorized | `7` | `7` | `100%` |
+| Uncategorized | `8` | `8` | `100%` |
 | Array | `7` | `5` | `71%` |
 | Math | `5` | `5` | `100%` |
 | Recursion | `4` | `4` | `100%` |
@@ -25,5 +25,5 @@
 
 * **Strongest Topics (>=3 solves)**: `Linked List`, `Math`, `Recursion` 💪
 * **Weakest Topics (>=3 attempts)**: `Hash Table`, `Array`, `Linked List` ⚠️
-* **Most Practiced Topics**: `Array`, `Uncategorized`, `Hash Table` 🚀
+* **Most Practiced Topics**: `Uncategorized`, `Array`, `Hash Table` 🚀
 * **Least Practiced Topics**: `Brainteaser`, `Game Theory`, `Divide and Conquer` 🔍
