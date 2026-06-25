@@ -19,6 +19,7 @@
 | Sorting | `1` | `1` | `100%` |
 | Counting | `1` | `1` | `100%` |
 | Sliding Window | `1` | `1` | `100%` |
+| Uncategorized | `1` | `1` | `100%` |
 
 ## Analytics Insights
 

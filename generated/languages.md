@@ -6,3 +6,4 @@ Distribution of solved problems:
 | :--- | :--- |
 | CPP | `13` |
 | C | `1` |
+| PYTHONDATA | `1` |

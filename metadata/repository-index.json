@@ -1,10 +1,11 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-25T10:46:13.327Z",
-  "totalSolved": 14,
+  "lastUpdated": "2026-06-25T11:20:55.024Z",
+  "totalSolved": 15,
   "languages": {
     "cpp": 13,
-    "c": 1
+    "c": 1,
+    "pythondata": 1
   },
   "files": {
     "1_cpp": "solutions/Array/0001_Two_Sum/solution.cpp",
@@ -20,7 +21,8 @@
     "169_cpp": "solutions/Array/0169_Majority_Element/solution.cpp",
     "39_cpp": "solutions/Array/0039_Combination_Sum/solution.cpp",
     "121_cpp": "solutions/Array/0121_Best_Time_to_Buy_and_Sell_Stock/solution.cpp",
-    "3_cpp": "solutions/Hash_Table/0003_Longest_Substring_Without_Repeating_Characters/solution.cpp"
+    "3_cpp": "solutions/Hash_Table/0003_Longest_Substring_Without_Repeating_Characters/solution.cpp",
+    "2877_pythondata": "solutions/Uncategorized/2877_Create_a_DataFrame_from_List/solution.txt"
   },
   "analytics": {
     "streaks": {
@@ -29,7 +31,7 @@
       "lastSolveDate": "2026-06-25"
     },
     "difficulties": {
-      "easy": 6,
+      "easy": 7,
       "medium": 7,
       "hard": 1
     },
@@ -91,6 +93,10 @@
         "accepted": 1
       },
       "Sliding Window": {
+        "attempted": 1,
+        "accepted": 1
+      },
+      "Uncategorized": {
         "attempted": 1,
         "accepted": 1
       }

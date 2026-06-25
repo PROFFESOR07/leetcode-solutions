@@ -20,3 +20,4 @@ Timeline of all solved questions (ordered by ID):
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | **Easy** | Array, Hash Table, Divide and Conquer, Sorting, Counting | `C++` | [View Solution](../solutions/Array/0169_Majority_Element/solution.cpp) | 25 Jun 2026 |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | **Easy** | Math, Brainteaser, Game Theory | `C++` | [View Solution](../solutions/Math/0292_Nim_Game/solution.cpp) | 24 Jun 2026 |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | **Medium** | Math, Recursion | `C++` | [View Solution](../solutions/Math/1922_Count_Good_Numbers/solution.cpp) | 22 Jun 2026 |
+| 2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2877_Create_a_DataFrame_from_List/solution.txt) | 25 Jun 2026 |

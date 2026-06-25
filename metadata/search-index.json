@@ -208,6 +208,17 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "2877",
+      "title": "Create a DataFrame from List",
+      "slug": "create-a-dataframe-from-list",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }

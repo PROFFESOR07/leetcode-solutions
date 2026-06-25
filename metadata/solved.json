@@ -260,5 +260,18 @@
     "runtime": "23 ms",
     "memory": "24.2 MB",
     "path": "solutions/Hash_Table/0003_Longest_Substring_Without_Repeating_Characters/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2877",
+    "title": "Create a DataFrame from List",
+    "slug": "create-a-dataframe-from-list",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:20:49.459Z",
+    "runtime": "269 ms",
+    "memory": "66.2 MB",
+    "path": "solutions/Uncategorized/2877_Create_a_DataFrame_from_List/solution.txt"
   }
 ]
