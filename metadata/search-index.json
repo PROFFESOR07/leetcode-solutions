@@ -252,6 +252,17 @@
       "languages": [
         "pythondata"
       ]
+    },
+    {
+      "id": "2881",
+      "title": "Create a New Column",
+      "slug": "create-a-new-column",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }

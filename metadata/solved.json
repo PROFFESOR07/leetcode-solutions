@@ -312,5 +312,18 @@
     "runtime": "289 ms",
     "memory": "66.8 MB",
     "path": "solutions/Uncategorized/2880_Select_Data/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2881",
+    "title": "Create a New Column",
+    "slug": "create-a-new-column",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:34:36.278Z",
+    "runtime": "306 ms",
+    "memory": "66.5 MB",
+    "path": "solutions/Uncategorized/2881_Create_a_New_Column/solution.txt"
   }
 ]

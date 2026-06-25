@@ -5,5 +5,5 @@ Distribution of solved problems:
 | Language | Solves |
 | :--- | :--- |
 | CPP | `13` |
-| PYTHONDATA | `4` |
+| PYTHONDATA | `5` |
 | C | `1` |

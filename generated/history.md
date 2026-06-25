@@ -24,3 +24,4 @@ Timeline of all solved questions (ordered by ID):
 | 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2878_Get_the_Size_of_a_DataFrame/solution.txt) | 25 Jun 2026 |
 | 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2879_Display_the_First_Three_Rows/solution.txt) | 25 Jun 2026 |
 | 2880 | [Select Data](https://leetcode.com/problems/select-data/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2880_Select_Data/solution.txt) | 25 Jun 2026 |
+| 2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2881_Create_a_New_Column/solution.txt) | 25 Jun 2026 |

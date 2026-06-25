@@ -6,8 +6,8 @@
 | :--- | :--- | :--- | :--- |
 | Array | `7` | `5` | `71%` |
 | Math | `5` | `5` | `100%` |
+| Uncategorized | `5` | `5` | `100%` |
 | Recursion | `4` | `4` | `100%` |
-| Uncategorized | `4` | `4` | `100%` |
 | Hash Table | `5` | `3` | `60%` |
 | Linked List | `3` | `3` | `100%` |
 | Two Pointers | `2` | `2` | `100%` |

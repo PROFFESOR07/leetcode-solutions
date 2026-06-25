@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-25T11:30:46.889Z",
-  "totalSolved": 18,
+  "lastUpdated": "2026-06-25T11:34:40.985Z",
+  "totalSolved": 19,
   "languages": {
     "cpp": 13,
     "c": 1,
-    "pythondata": 4
+    "pythondata": 5
   },
   "files": {
     "1_cpp": "solutions/Array/0001_Two_Sum/solution.cpp",
@@ -25,7 +25,8 @@
     "2877_pythondata": "solutions/Uncategorized/2877_Create_a_DataFrame_from_List/solution.txt",
     "2878_pythondata": "solutions/Uncategorized/2878_Get_the_Size_of_a_DataFrame/solution.txt",
     "2879_pythondata": "solutions/Uncategorized/2879_Display_the_First_Three_Rows/solution.txt",
-    "2880_pythondata": "solutions/Uncategorized/2880_Select_Data/solution.txt"
+    "2880_pythondata": "solutions/Uncategorized/2880_Select_Data/solution.txt",
+    "2881_pythondata": "solutions/Uncategorized/2881_Create_a_New_Column/solution.txt"
   },
   "analytics": {
     "streaks": {
@@ -34,7 +35,7 @@
       "lastSolveDate": "2026-06-25"
     },
     "difficulties": {
-      "easy": 10,
+      "easy": 11,
       "medium": 7,
       "hard": 1
     },
@@ -100,8 +101,8 @@
         "accepted": 1
       },
       "Uncategorized": {
-        "attempted": 4,
-        "accepted": 4
+        "attempted": 5,
+        "accepted": 5
       }
     },
     "patterns": {
