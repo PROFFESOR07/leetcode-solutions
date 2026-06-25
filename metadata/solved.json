@@ -192,5 +192,24 @@
     "runtime": "0 ms",
     "memory": "11.7 MB",
     "path": "solutions/Array/0027_Remove_Element/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "169",
+    "title": "Majority Element",
+    "slug": "majority-element",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-25T08:12:51.408Z",
+    "runtime": "0 ms",
+    "memory": "28.2 MB",
+    "path": "solutions/Array/0169_Majority_Element/solution.cpp"
   }
 ]

@@ -66,16 +66,16 @@ Progress: [█░░░░░░░░░░░░░░░░░░░] 4%
 
 ## 🗺️ Grind 169
 
-**Overall Progress**: `1 / 24` (`4%`)
+**Overall Progress**: `2 / 24` (`8%`)
 ```
-Progress: [█░░░░░░░░░░░░░░░░░░░] 4%
+Progress: [██░░░░░░░░░░░░░░░░░░] 8%
 ```
 
 ### Section breakdowns
 
 | Section | Solved | Completion | Progress |
 | :--- | :--- | :--- | :--- |
-| Array | `1 / 4` | `25%` | `███░░░░░░░` |
+| Array | `2 / 4` | `50%` | `█████░░░░░` |
 | Linked List | `0 / 4` | `0%` | `░░░░░░░░░░` |
 | String | `0 / 4` | `0%` | `░░░░░░░░░░` |
 | Binary Tree | `0 / 3` | `0%` | `░░░░░░░░░░` |

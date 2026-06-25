@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-24T09:52:08.251Z",
-  "totalSolved": 10,
+  "lastUpdated": "2026-06-25T08:12:57.449Z",
+  "totalSolved": 11,
   "languages": {
-    "cpp": 9,
+    "cpp": 10,
     "c": 1
   },
   "files": {
@@ -16,27 +16,28 @@
     "22_cpp": "solutions/String/0022_Generate_Parentheses/solution.cpp",
     "25_cpp": "solutions/Linked_List/0025_Reverse_Nodes_in_k_Group/solution.cpp",
     "292_cpp": "solutions/Math/0292_Nim_Game/solution.cpp",
-    "27_cpp": "solutions/Array/0027_Remove_Element/solution.cpp"
+    "27_cpp": "solutions/Array/0027_Remove_Element/solution.cpp",
+    "169_cpp": "solutions/Array/0169_Majority_Element/solution.cpp"
   },
   "analytics": {
     "streaks": {
-      "currentStreak": 3,
-      "bestStreak": 3,
-      "lastSolveDate": "2026-06-24"
+      "currentStreak": 4,
+      "bestStreak": 4,
+      "lastSolveDate": "2026-06-25"
     },
     "difficulties": {
-      "easy": 4,
+      "easy": 5,
       "medium": 5,
       "hard": 1
     },
     "topics": {
       "Array": {
-        "attempted": 4,
-        "accepted": 2
+        "attempted": 5,
+        "accepted": 3
       },
       "Hash Table": {
-        "attempted": 3,
-        "accepted": 1
+        "attempted": 4,
+        "accepted": 2
       },
       "Linked List": {
         "attempted": 3,
@@ -73,10 +74,22 @@
       "Game Theory": {
         "attempted": 1,
         "accepted": 1
+      },
+      "Divide and Conquer": {
+        "attempted": 1,
+        "accepted": 1
+      },
+      "Sorting": {
+        "attempted": 1,
+        "accepted": 1
+      },
+      "Counting": {
+        "attempted": 1,
+        "accepted": 1
       }
     },
     "patterns": {
-      "TwoPointers": 4,
+      "TwoPointers": 5,
       "FastSlowPointers": 3,
       "DynamicProgramming": 1,
       "Backtracking": 1
