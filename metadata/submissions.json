@@ -322,5 +322,17 @@
     "runtime": "288 ms",
     "memory": "66.4 MB",
     "timestamp": "2026-06-25T11:49:12.519Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2888",
+    "title": "Reshape Data: Concatenate",
+    "slug": "reshape-data-concatenate",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "verdict": "Accepted",
+    "runtime": "309 ms",
+    "memory": "66.5 MB",
+    "timestamp": "2026-06-25T11:50:53.783Z"
   }
 ]

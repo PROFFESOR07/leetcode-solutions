@@ -329,6 +329,17 @@
       "languages": [
         "pythondata"
       ]
+    },
+    {
+      "id": "2888",
+      "title": "Reshape Data: Concatenate",
+      "slug": "reshape-data-concatenate",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }

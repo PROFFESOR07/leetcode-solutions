@@ -403,5 +403,18 @@
     "runtime": "288 ms",
     "memory": "66.4 MB",
     "path": "solutions/Uncategorized/2887_Fill_Missing_Data/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2888",
+    "title": "Reshape Data: Concatenate",
+    "slug": "reshape-data-concatenate",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:50:53.783Z",
+    "runtime": "309 ms",
+    "memory": "66.5 MB",
+    "path": "solutions/Uncategorized/2888_Reshape_Data_Concatenate/solution.txt"
   }
 ]
