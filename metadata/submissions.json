@@ -154,5 +154,17 @@
     "runtime": "0 ms",
     "memory": "28.2 MB",
     "timestamp": "2026-06-25T08:12:51.408Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "39",
+    "title": "Combination Sum",
+    "slug": "combination-sum",
+    "difficulty": "Medium",
+    "language": "C++",
+    "verdict": "Accepted",
+    "runtime": "3 ms",
+    "memory": "14 MB",
+    "timestamp": "2026-06-25T10:11:38.458Z"
   }
 ]

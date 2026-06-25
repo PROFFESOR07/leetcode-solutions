@@ -211,5 +211,21 @@
     "runtime": "0 ms",
     "memory": "28.2 MB",
     "path": "solutions/Array/0169_Majority_Element/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "39",
+    "title": "Combination Sum",
+    "slug": "combination-sum",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Backtracking"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-25T10:11:38.458Z",
+    "runtime": "3 ms",
+    "memory": "14 MB",
+    "path": "solutions/Array/0039_Combination_Sum/solution.cpp"
   }
 ]

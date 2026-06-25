@@ -163,6 +163,22 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "patterns": [
+        "Backtracking"
+      ],
+      "languages": [
+        "c++"
+      ]
     }
   ]
 }
