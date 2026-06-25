@@ -416,5 +416,18 @@
     "runtime": "309 ms",
     "memory": "66.5 MB",
     "path": "solutions/Uncategorized/2888_Reshape_Data_Concatenate/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2889",
+    "title": "Reshape Data: Pivot",
+    "slug": "reshape-data-pivot",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:56:09.192Z",
+    "runtime": "310 ms",
+    "memory": "67.3 MB",
+    "path": "solutions/Uncategorized/2889_Reshape_Data_Pivot/solution.txt"
   }
 ]

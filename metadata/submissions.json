@@ -334,5 +334,17 @@
     "runtime": "309 ms",
     "memory": "66.5 MB",
     "timestamp": "2026-06-25T11:50:53.783Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2889",
+    "title": "Reshape Data: Pivot",
+    "slug": "reshape-data-pivot",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "verdict": "Accepted",
+    "runtime": "310 ms",
+    "memory": "67.3 MB",
+    "timestamp": "2026-06-25T11:56:09.192Z"
   }
 ]

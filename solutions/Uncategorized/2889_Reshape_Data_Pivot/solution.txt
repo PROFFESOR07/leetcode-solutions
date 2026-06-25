@@ -1,0 +1,18 @@
+/*
+ * Problem ID: 2889
+ * Title: Reshape Data: Pivot
+ * Difficulty: Easy
+ * Topics: 
+ * LeetCode URL: https://leetcode.com/problems/reshape-data-pivot/
+ * Language: pythondata
+ * Submission Date: 2026-06-25T11:56:09.192Z
+ */
+
+import pandas as pd
+
+def pivotTable(weather: pd.DataFrame) -> pd.DataFrame:
+    return weather.pivot(
+        index="month",
+        columns="city",
+        values="temperature"
+    )

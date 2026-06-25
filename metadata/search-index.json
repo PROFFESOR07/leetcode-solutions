@@ -340,6 +340,17 @@
       "languages": [
         "pythondata"
       ]
+    },
+    {
+      "id": "2889",
+      "title": "Reshape Data: Pivot",
+      "slug": "reshape-data-pivot",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }
