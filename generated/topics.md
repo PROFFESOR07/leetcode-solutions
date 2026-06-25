@@ -4,7 +4,7 @@
 
 | Topic | Attempted | Accepted | Acceptance Rate |
 | :--- | :--- | :--- | :--- |
-| Uncategorized | `9` | `9` | `100%` |
+| Uncategorized | `10` | `10` | `100%` |
 | Array | `7` | `5` | `71%` |
 | Math | `5` | `5` | `100%` |
 | Recursion | `4` | `4` | `100%` |

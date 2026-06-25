@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-25T11:44:54.366Z",
-  "totalSolved": 23,
+  "lastUpdated": "2026-06-25T11:47:25.750Z",
+  "totalSolved": 24,
   "languages": {
     "cpp": 13,
     "c": 1,
-    "pythondata": 9
+    "pythondata": 10
   },
   "files": {
     "1_cpp": "solutions/Array/0001_Two_Sum/solution.cpp",
@@ -30,7 +30,8 @@
     "2882_pythondata": "solutions/Uncategorized/2882_Drop_Duplicate_Rows/solution.txt",
     "2883_pythondata": "solutions/Uncategorized/2883_Drop_Missing_Data/solution.txt",
     "2884_pythondata": "solutions/Uncategorized/2884_Modify_Columns/solution.txt",
-    "2885_pythondata": "solutions/Uncategorized/2885_Rename_Columns/solution.txt"
+    "2885_pythondata": "solutions/Uncategorized/2885_Rename_Columns/solution.txt",
+    "2886_pythondata": "solutions/Uncategorized/2886_Change_Data_Type/solution.txt"
   },
   "analytics": {
     "streaks": {
@@ -39,7 +40,7 @@
       "lastSolveDate": "2026-06-25"
     },
     "difficulties": {
-      "easy": 15,
+      "easy": 16,
       "medium": 7,
       "hard": 1
     },
@@ -105,8 +106,8 @@
         "accepted": 1
       },
       "Uncategorized": {
-        "attempted": 9,
-        "accepted": 9
+        "attempted": 10,
+        "accepted": 10
       }
     },
     "patterns": {

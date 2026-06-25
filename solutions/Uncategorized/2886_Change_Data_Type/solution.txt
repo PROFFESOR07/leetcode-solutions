@@ -1,0 +1,15 @@
+/*
+ * Problem ID: 2886
+ * Title: Change Data Type
+ * Difficulty: Easy
+ * Topics: 
+ * LeetCode URL: https://leetcode.com/problems/change-data-type/
+ * Language: pythondata
+ * Submission Date: 2026-06-25T11:47:20.335Z
+ */
+
+import pandas as pd
+
+def changeDatatype(students: pd.DataFrame) -> pd.DataFrame:
+    students["grade"] = students["grade"].astype(int)
+    return students

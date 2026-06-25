@@ -377,5 +377,18 @@
     "runtime": "294 ms",
     "memory": "66.7 MB",
     "path": "solutions/Uncategorized/2885_Rename_Columns/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2886",
+    "title": "Change Data Type",
+    "slug": "change-data-type",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:47:20.335Z",
+    "runtime": "274 ms",
+    "memory": "66.3 MB",
+    "path": "solutions/Uncategorized/2886_Change_Data_Type/solution.txt"
   }
 ]

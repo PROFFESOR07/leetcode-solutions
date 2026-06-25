@@ -307,6 +307,17 @@
       "languages": [
         "pythondata"
       ]
+    },
+    {
+      "id": "2886",
+      "title": "Change Data Type",
+      "slug": "change-data-type",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }

@@ -298,5 +298,17 @@
     "runtime": "294 ms",
     "memory": "66.7 MB",
     "timestamp": "2026-06-25T11:44:48.656Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2886",
+    "title": "Change Data Type",
+    "slug": "change-data-type",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "verdict": "Accepted",
+    "runtime": "274 ms",
+    "memory": "66.3 MB",
+    "timestamp": "2026-06-25T11:47:20.335Z"
   }
 ]
