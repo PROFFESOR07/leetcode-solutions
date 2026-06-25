@@ -362,6 +362,17 @@
       "languages": [
         "pythondata"
       ]
+    },
+    {
+      "id": "2891",
+      "title": "Method Chaining",
+      "slug": "method-chaining",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }

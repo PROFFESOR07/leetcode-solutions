@@ -442,5 +442,18 @@
     "runtime": "351 ms",
     "memory": "66.8 MB",
     "path": "solutions/Uncategorized/2890_Reshape_Data_Melt/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2891",
+    "title": "Method Chaining",
+    "slug": "method-chaining",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:58:37.397Z",
+    "runtime": "312 ms",
+    "memory": "67.4 MB",
+    "path": "solutions/Uncategorized/2891_Method_Chaining/solution.txt"
   }
 ]

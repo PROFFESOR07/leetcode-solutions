@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-25T11:57:29.344Z",
-  "totalSolved": 28,
+  "lastUpdated": "2026-06-25T11:58:42.451Z",
+  "totalSolved": 29,
   "languages": {
     "cpp": 13,
     "c": 1,
-    "pythondata": 14
+    "pythondata": 15
   },
   "files": {
     "1_cpp": "solutions/Array/0001_Two_Sum/solution.cpp",
@@ -35,7 +35,8 @@
     "2887_pythondata": "solutions/Uncategorized/2887_Fill_Missing_Data/solution.txt",
     "2888_pythondata": "solutions/Uncategorized/2888_Reshape_Data_Concatenate/solution.txt",
     "2889_pythondata": "solutions/Uncategorized/2889_Reshape_Data_Pivot/solution.txt",
-    "2890_pythondata": "solutions/Uncategorized/2890_Reshape_Data_Melt/solution.txt"
+    "2890_pythondata": "solutions/Uncategorized/2890_Reshape_Data_Melt/solution.txt",
+    "2891_pythondata": "solutions/Uncategorized/2891_Method_Chaining/solution.txt"
   },
   "analytics": {
     "streaks": {
@@ -44,7 +45,7 @@
       "lastSolveDate": "2026-06-25"
     },
     "difficulties": {
-      "easy": 20,
+      "easy": 21,
       "medium": 7,
       "hard": 1
     },
@@ -110,8 +111,8 @@
         "accepted": 1
       },
       "Uncategorized": {
-        "attempted": 14,
-        "accepted": 14
+        "attempted": 15,
+        "accepted": 15
       }
     },
     "patterns": {
