@@ -299,5 +299,18 @@
     "runtime": "282 ms",
     "memory": "66.6 MB",
     "path": "solutions/Uncategorized/2879_Display_the_First_Three_Rows/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2880",
+    "title": "Select Data",
+    "slug": "select-data",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:30:41.972Z",
+    "runtime": "289 ms",
+    "memory": "66.8 MB",
+    "path": "solutions/Uncategorized/2880_Select_Data/solution.txt"
   }
 ]

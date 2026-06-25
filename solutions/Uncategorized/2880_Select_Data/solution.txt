@@ -1,0 +1,14 @@
+/*
+ * Problem ID: 2880
+ * Title: Select Data
+ * Difficulty: Easy
+ * Topics: 
+ * LeetCode URL: https://leetcode.com/problems/select-data/
+ * Language: pythondata
+ * Submission Date: 2026-06-25T11:30:41.972Z
+ */
+
+import pandas as pd
+
+def selectData(students: pd.DataFrame) -> pd.DataFrame:
+    return students.loc[students["student_id"] == 101, ["name", "age"]]

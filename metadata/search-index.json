@@ -241,6 +241,17 @@
       "languages": [
         "pythondata"
       ]
+    },
+    {
+      "id": "2880",
+      "title": "Select Data",
+      "slug": "select-data",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }
