@@ -230,6 +230,17 @@
       "languages": [
         "pythondata"
       ]
+    },
+    {
+      "id": "2879",
+      "title": "Display the First Three Rows",
+      "slug": "display-the-first-three-rows",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }

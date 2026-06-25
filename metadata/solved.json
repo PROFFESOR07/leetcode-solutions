@@ -286,5 +286,18 @@
     "runtime": "261 ms",
     "memory": "66.2 MB",
     "path": "solutions/Uncategorized/2878_Get_the_Size_of_a_DataFrame/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2879",
+    "title": "Display the First Three Rows",
+    "slug": "display-the-first-three-rows",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:25:34.467Z",
+    "runtime": "282 ms",
+    "memory": "66.6 MB",
+    "path": "solutions/Uncategorized/2879_Display_the_First_Three_Rows/solution.txt"
   }
 ]

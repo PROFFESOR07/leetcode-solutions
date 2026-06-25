@@ -214,5 +214,17 @@
     "runtime": "261 ms",
     "memory": "66.2 MB",
     "timestamp": "2026-06-25T11:23:40.675Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2879",
+    "title": "Display the First Three Rows",
+    "slug": "display-the-first-three-rows",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "verdict": "Accepted",
+    "runtime": "282 ms",
+    "memory": "66.6 MB",
+    "timestamp": "2026-06-25T11:25:34.467Z"
   }
 ]
