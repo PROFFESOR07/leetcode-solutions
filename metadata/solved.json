@@ -429,5 +429,18 @@
     "runtime": "310 ms",
     "memory": "67.3 MB",
     "path": "solutions/Uncategorized/2889_Reshape_Data_Pivot/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2890",
+    "title": "Reshape Data: Melt",
+    "slug": "reshape-data-melt",
+    "difficulty": "Easy",
+    "topics": [],
+    "language": "pythondata",
+    "timestamp": "2026-06-25T11:57:22.179Z",
+    "runtime": "351 ms",
+    "memory": "66.8 MB",
+    "path": "solutions/Uncategorized/2890_Reshape_Data_Melt/solution.txt"
   }
 ]

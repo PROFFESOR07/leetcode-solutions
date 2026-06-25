@@ -1,0 +1,18 @@
+/*
+ * Problem ID: 2890
+ * Title: Reshape Data: Melt
+ * Difficulty: Easy
+ * Topics: 
+ * LeetCode URL: https://leetcode.com/problems/reshape-data-melt/
+ * Language: pythondata
+ * Submission Date: 2026-06-25T11:57:22.179Z
+ */
+
+import pandas as pd
+
+def meltTable(report: pd.DataFrame) -> pd.DataFrame:
+    return report.melt(
+        id_vars="product",
+        var_name="quarter",
+        value_name="sales"
+    )

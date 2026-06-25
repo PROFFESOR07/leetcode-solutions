@@ -351,6 +351,17 @@
       "languages": [
         "pythondata"
       ]
+    },
+    {
+      "id": "2890",
+      "title": "Reshape Data: Melt",
+      "slug": "reshape-data-melt",
+      "difficulty": "Easy",
+      "topics": [],
+      "patterns": [],
+      "languages": [
+        "pythondata"
+      ]
     }
   ]
 }

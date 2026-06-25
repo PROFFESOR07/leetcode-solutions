@@ -346,5 +346,17 @@
     "runtime": "310 ms",
     "memory": "67.3 MB",
     "timestamp": "2026-06-25T11:56:09.192Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "2890",
+    "title": "Reshape Data: Melt",
+    "slug": "reshape-data-melt",
+    "difficulty": "Easy",
+    "language": "pythondata",
+    "verdict": "Accepted",
+    "runtime": "351 ms",
+    "memory": "66.8 MB",
+    "timestamp": "2026-06-25T11:57:22.179Z"
   }
 ]
