@@ -451,6 +451,19 @@
       "languages": [
         "bash"
       ]
+    },
+    {
+      "id": "193",
+      "title": "Valid Phone Numbers",
+      "slug": "valid-phone-numbers",
+      "difficulty": "Easy",
+      "topics": [
+        "Shell"
+      ],
+      "patterns": [],
+      "languages": [
+        "bash"
+      ]
     }
   ]
 }

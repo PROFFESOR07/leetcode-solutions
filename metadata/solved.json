@@ -545,5 +545,20 @@
     "runtime": "26 ms",
     "memory": "4 MB",
     "path": "solutions/Shell/0195_Tenth_Line/solution.sh"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "193",
+    "title": "Valid Phone Numbers",
+    "slug": "valid-phone-numbers",
+    "difficulty": "Easy",
+    "topics": [
+      "Shell"
+    ],
+    "language": "Bash",
+    "timestamp": "2026-06-26T11:00:26.142Z",
+    "runtime": "68 ms",
+    "memory": "3.5 MB",
+    "path": "solutions/Shell/0193_Valid_Phone_Numbers/solution.sh"
   }
 ]
