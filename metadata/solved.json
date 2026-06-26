@@ -455,5 +455,20 @@
     "runtime": "312 ms",
     "memory": "67.4 MB",
     "path": "solutions/Uncategorized/2891_Method_Chaining/solution.txt"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "1757",
+    "title": "Recyclable and Low Fat Products",
+    "slug": "recyclable-and-low-fat-products",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "timestamp": "2026-06-26T10:28:27.778Z",
+    "runtime": "514 ms",
+    "memory": "0B",
+    "path": "solutions/Database/1757_Recyclable_and_Low_Fat_Products/solution.sql"
   }
 ]

@@ -7,3 +7,4 @@ Distribution of solved problems:
 | PYTHONDATA | `15` |
 | CPP | `13` |
 | C | `1` |
+| MYSQL | `1` |

@@ -370,5 +370,17 @@
     "runtime": "312 ms",
     "memory": "67.4 MB",
     "timestamp": "2026-06-25T11:58:37.397Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "1757",
+    "title": "Recyclable and Low Fat Products",
+    "slug": "recyclable-and-low-fat-products",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "verdict": "Accepted",
+    "runtime": "514 ms",
+    "memory": "0B",
+    "timestamp": "2026-06-26T10:28:27.778Z"
   }
 ]
