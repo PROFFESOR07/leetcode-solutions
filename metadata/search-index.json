@@ -425,6 +425,19 @@
       "languages": [
         "mysql"
       ]
+    },
+    {
+      "id": "1683",
+      "title": "Invalid Tweets",
+      "slug": "invalid-tweets",
+      "difficulty": "Easy",
+      "topics": [
+        "Database"
+      ],
+      "patterns": [],
+      "languages": [
+        "mysql"
+      ]
     }
   ]
 }

@@ -22,6 +22,7 @@ Timeline of all solved questions (ordered by ID):
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/0584_Find_Customer_Referee/solution.sql) | 26 Jun 2026 |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/0595_Big_Countries/solution.sql) | 26 Jun 2026 |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/1148_Article_Views_I/solution.sql) | 26 Jun 2026 |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/1683_Invalid_Tweets/solution.sql) | 26 Jun 2026 |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/1757_Recyclable_and_Low_Fat_Products/solution.sql) | 26 Jun 2026 |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | **Medium** | Math, Recursion | `C++` | [View Solution](../solutions/Math/1922_Count_Good_Numbers/solution.cpp) | 22 Jun 2026 |
 | 2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2877_Create_a_DataFrame_from_List/solution.txt) | 25 Jun 2026 |

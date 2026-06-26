@@ -515,5 +515,20 @@
     "runtime": "474 ms",
     "memory": "0B",
     "path": "solutions/Database/1148_Article_Views_I/solution.sql"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "1683",
+    "title": "Invalid Tweets",
+    "slug": "invalid-tweets",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "timestamp": "2026-06-26T10:48:58.330Z",
+    "runtime": "667 ms",
+    "memory": "0B",
+    "path": "solutions/Database/1683_Invalid_Tweets/solution.sql"
   }
 ]
