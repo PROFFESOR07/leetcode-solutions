@@ -478,5 +478,17 @@
     "runtime": "84 ms",
     "memory": "3.8 MB",
     "timestamp": "2026-06-26T11:08:14.208Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "1378",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "slug": "replace-employee-id-with-the-unique-identifier",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "verdict": "Accepted",
+    "runtime": "1449 ms",
+    "memory": "0B",
+    "timestamp": "2026-06-26T11:23:00.281Z"
   }
 ]

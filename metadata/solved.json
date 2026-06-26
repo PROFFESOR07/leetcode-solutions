@@ -590,5 +590,20 @@
     "runtime": "84 ms",
     "memory": "3.8 MB",
     "path": "solutions/Shell/0192_Word_Frequency/solution.sh"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "1378",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "slug": "replace-employee-id-with-the-unique-identifier",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "timestamp": "2026-06-26T11:23:00.281Z",
+    "runtime": "1449 ms",
+    "memory": "0B",
+    "path": "solutions/Database/1378_Replace_Employee_ID_With_The_Unique_Identifier/solution.sql"
   }
 ]
