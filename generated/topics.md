@@ -8,9 +8,9 @@
 | Array | `7` | `5` | `71%` |
 | Math | `5` | `5` | `100%` |
 | Recursion | `4` | `4` | `100%` |
+| Database | `4` | `4` | `100%` |
 | Hash Table | `5` | `3` | `60%` |
 | Linked List | `3` | `3` | `100%` |
-| Database | `3` | `3` | `100%` |
 | Two Pointers | `2` | `2` | `100%` |
 | String | `2` | `2` | `100%` |
 | Dynamic Programming | `2` | `2` | `100%` |

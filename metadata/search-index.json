@@ -412,6 +412,19 @@
       "languages": [
         "mysql"
       ]
+    },
+    {
+      "id": "1148",
+      "title": "Article Views I",
+      "slug": "article-views-i",
+      "difficulty": "Easy",
+      "topics": [
+        "Database"
+      ],
+      "patterns": [],
+      "languages": [
+        "mysql"
+      ]
     }
   ]
 }

@@ -500,5 +500,20 @@
     "runtime": "286 ms",
     "memory": "0B",
     "path": "solutions/Database/0595_Big_Countries/solution.sql"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "1148",
+    "title": "Article Views I",
+    "slug": "article-views-i",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "timestamp": "2026-06-26T10:46:08.000Z",
+    "runtime": "474 ms",
+    "memory": "0B",
+    "path": "solutions/Database/1148_Article_Views_I/solution.sql"
   }
 ]
