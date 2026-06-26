@@ -14,13 +14,13 @@
 | String | `2` | `2` | `100%` |
 | Dynamic Programming | `2` | `2` | `100%` |
 | Backtracking | `2` | `2` | `100%` |
+| Database | `2` | `2` | `100%` |
 | Brainteaser | `1` | `1` | `100%` |
 | Game Theory | `1` | `1` | `100%` |
 | Divide and Conquer | `1` | `1` | `100%` |
 | Sorting | `1` | `1` | `100%` |
 | Counting | `1` | `1` | `100%` |
 | Sliding Window | `1` | `1` | `100%` |
-| Database | `1` | `1` | `100%` |
 
 ## Analytics Insights
 

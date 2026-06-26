@@ -382,5 +382,17 @@
     "runtime": "514 ms",
     "memory": "0B",
     "timestamp": "2026-06-26T10:28:27.778Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "584",
+    "title": "Find Customer Referee",
+    "slug": "find-customer-referee",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "verdict": "Accepted",
+    "runtime": "480 ms",
+    "memory": "0B",
+    "timestamp": "2026-06-26T10:38:06.638Z"
   }
 ]

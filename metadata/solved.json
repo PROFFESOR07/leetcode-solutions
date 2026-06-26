@@ -470,5 +470,20 @@
     "runtime": "514 ms",
     "memory": "0B",
     "path": "solutions/Database/1757_Recyclable_and_Low_Fat_Products/solution.sql"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "584",
+    "title": "Find Customer Referee",
+    "slug": "find-customer-referee",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "timestamp": "2026-06-26T10:38:06.638Z",
+    "runtime": "480 ms",
+    "memory": "0B",
+    "path": "solutions/Database/0584_Find_Customer_Referee/solution.sql"
   }
 ]

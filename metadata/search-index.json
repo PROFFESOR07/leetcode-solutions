@@ -386,6 +386,19 @@
       "languages": [
         "mysql"
       ]
+    },
+    {
+      "id": "584",
+      "title": "Find Customer Referee",
+      "slug": "find-customer-referee",
+      "difficulty": "Easy",
+      "topics": [
+        "Database"
+      ],
+      "patterns": [],
+      "languages": [
+        "mysql"
+      ]
     }
   ]
 }
