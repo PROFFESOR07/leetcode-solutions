@@ -21,6 +21,7 @@
 | Sorting | `1` | `1` | `100%` |
 | Counting | `1` | `1` | `100%` |
 | Sliding Window | `1` | `1` | `100%` |
+| Shell | `1` | `1` | `100%` |
 
 ## Analytics Insights
 

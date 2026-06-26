@@ -18,6 +18,7 @@ Timeline of all solved questions (ordered by ID):
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | **Medium** | Linked List, Two Pointers | `C++` | [View Solution](../solutions/Linked_List/0061_Rotate_List/solution.cpp) | 22 Jun 2026 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | **Easy** | Array, Dynamic Programming | `C++` | [View Solution](../solutions/Array/0121_Best_Time_to_Buy_and_Sell_Stock/solution.cpp) | 25 Jun 2026 |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | **Easy** | Array, Hash Table, Divide and Conquer, Sorting, Counting | `C++` | [View Solution](../solutions/Array/0169_Majority_Element/solution.cpp) | 25 Jun 2026 |
+| 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | **Easy** | Shell | `Bash` | [View Solution](../solutions/Shell/0195_Tenth_Line/solution.sh) | 26 Jun 2026 |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | **Easy** | Math, Brainteaser, Game Theory | `C++` | [View Solution](../solutions/Math/0292_Nim_Game/solution.cpp) | 24 Jun 2026 |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/0584_Find_Customer_Referee/solution.sql) | 26 Jun 2026 |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/0595_Big_Countries/solution.sql) | 26 Jun 2026 |

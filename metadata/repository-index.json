@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-26T10:49:03.813Z",
-  "totalSolved": 34,
+  "lastUpdated": "2026-06-26T10:56:41.512Z",
+  "totalSolved": 35,
   "languages": {
     "cpp": 13,
     "c": 1,
     "pythondata": 15,
-    "mysql": 5
+    "mysql": 5,
+    "bash": 1
   },
   "files": {
     "1_cpp": "solutions/Array/0001_Two_Sum/solution.cpp",
@@ -42,7 +43,8 @@
     "584_mysql": "solutions/Database/0584_Find_Customer_Referee/solution.sql",
     "595_mysql": "solutions/Database/0595_Big_Countries/solution.sql",
     "1148_mysql": "solutions/Database/1148_Article_Views_I/solution.sql",
-    "1683_mysql": "solutions/Database/1683_Invalid_Tweets/solution.sql"
+    "1683_mysql": "solutions/Database/1683_Invalid_Tweets/solution.sql",
+    "195_bash": "solutions/Shell/0195_Tenth_Line/solution.sh"
   },
   "analytics": {
     "streaks": {
@@ -51,7 +53,7 @@
       "lastSolveDate": "2026-06-26"
     },
     "difficulties": {
-      "easy": 26,
+      "easy": 27,
       "medium": 7,
       "hard": 1
     },
@@ -123,6 +125,10 @@
       "Database": {
         "attempted": 5,
         "accepted": 5
+      },
+      "Shell": {
+        "attempted": 1,
+        "accepted": 1
       }
     },
     "patterns": {

@@ -530,5 +530,20 @@
     "runtime": "667 ms",
     "memory": "0B",
     "path": "solutions/Database/1683_Invalid_Tweets/solution.sql"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "195",
+    "title": "Tenth Line",
+    "slug": "tenth-line",
+    "difficulty": "Easy",
+    "topics": [
+      "Shell"
+    ],
+    "language": "Bash",
+    "timestamp": "2026-06-26T10:56:35.684Z",
+    "runtime": "26 ms",
+    "memory": "4 MB",
+    "path": "solutions/Shell/0195_Tenth_Line/solution.sh"
   }
 ]

@@ -8,3 +8,4 @@ Distribution of solved problems:
 | CPP | `13` |
 | MYSQL | `5` |
 | C | `1` |
+| BASH | `1` |

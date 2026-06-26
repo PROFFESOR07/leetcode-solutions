@@ -438,6 +438,19 @@
       "languages": [
         "mysql"
       ]
+    },
+    {
+      "id": "195",
+      "title": "Tenth Line",
+      "slug": "tenth-line",
+      "difficulty": "Easy",
+      "topics": [
+        "Shell"
+      ],
+      "patterns": [],
+      "languages": [
+        "bash"
+      ]
     }
   ]
 }
