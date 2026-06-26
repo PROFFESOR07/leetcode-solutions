@@ -464,6 +464,19 @@
       "languages": [
         "bash"
       ]
+    },
+    {
+      "id": "194",
+      "title": "Transpose File",
+      "slug": "transpose-file",
+      "difficulty": "Medium",
+      "topics": [
+        "Shell"
+      ],
+      "patterns": [],
+      "languages": [
+        "bash"
+      ]
     }
   ]
 }
