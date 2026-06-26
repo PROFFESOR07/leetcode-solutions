@@ -485,5 +485,20 @@
     "runtime": "480 ms",
     "memory": "0B",
     "path": "solutions/Database/0584_Find_Customer_Referee/solution.sql"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "595",
+    "title": "Big Countries",
+    "slug": "big-countries",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "timestamp": "2026-06-26T10:41:14.431Z",
+    "runtime": "286 ms",
+    "memory": "0B",
+    "path": "solutions/Database/0595_Big_Countries/solution.sql"
   }
 ]

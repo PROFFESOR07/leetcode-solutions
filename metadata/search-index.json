@@ -399,6 +399,19 @@
       "languages": [
         "mysql"
       ]
+    },
+    {
+      "id": "595",
+      "title": "Big Countries",
+      "slug": "big-countries",
+      "difficulty": "Easy",
+      "topics": [
+        "Database"
+      ],
+      "patterns": [],
+      "languages": [
+        "mysql"
+      ]
     }
   ]
 }

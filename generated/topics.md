@@ -10,11 +10,11 @@
 | Recursion | `4` | `4` | `100%` |
 | Hash Table | `5` | `3` | `60%` |
 | Linked List | `3` | `3` | `100%` |
+| Database | `3` | `3` | `100%` |
 | Two Pointers | `2` | `2` | `100%` |
 | String | `2` | `2` | `100%` |
 | Dynamic Programming | `2` | `2` | `100%` |
 | Backtracking | `2` | `2` | `100%` |
-| Database | `2` | `2` | `100%` |
 | Brainteaser | `1` | `1` | `100%` |
 | Game Theory | `1` | `1` | `100%` |
 | Divide and Conquer | `1` | `1` | `100%` |

@@ -394,5 +394,17 @@
     "runtime": "480 ms",
     "memory": "0B",
     "timestamp": "2026-06-26T10:38:06.638Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "595",
+    "title": "Big Countries",
+    "slug": "big-countries",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "verdict": "Accepted",
+    "runtime": "286 ms",
+    "memory": "0B",
+    "timestamp": "2026-06-26T10:41:14.431Z"
   }
 ]

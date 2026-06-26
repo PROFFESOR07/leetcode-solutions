@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-26T10:38:13.559Z",
-  "totalSolved": 31,
+  "lastUpdated": "2026-06-26T10:41:20.632Z",
+  "totalSolved": 32,
   "languages": {
     "cpp": 13,
     "c": 1,
     "pythondata": 15,
-    "mysql": 2
+    "mysql": 3
   },
   "files": {
     "1_cpp": "solutions/Array/0001_Two_Sum/solution.cpp",
@@ -39,7 +39,8 @@
     "2890_pythondata": "solutions/Uncategorized/2890_Reshape_Data_Melt/solution.txt",
     "2891_pythondata": "solutions/Uncategorized/2891_Method_Chaining/solution.txt",
     "1757_mysql": "solutions/Database/1757_Recyclable_and_Low_Fat_Products/solution.sql",
-    "584_mysql": "solutions/Database/0584_Find_Customer_Referee/solution.sql"
+    "584_mysql": "solutions/Database/0584_Find_Customer_Referee/solution.sql",
+    "595_mysql": "solutions/Database/0595_Big_Countries/solution.sql"
   },
   "analytics": {
     "streaks": {
@@ -48,7 +49,7 @@
       "lastSolveDate": "2026-06-26"
     },
     "difficulties": {
-      "easy": 23,
+      "easy": 24,
       "medium": 7,
       "hard": 1
     },
@@ -118,8 +119,8 @@
         "accepted": 15
       },
       "Database": {
-        "attempted": 2,
-        "accepted": 2
+        "attempted": 3,
+        "accepted": 3
       }
     },
     "patterns": {
