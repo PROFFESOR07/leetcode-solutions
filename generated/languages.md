@@ -7,5 +7,5 @@ Distribution of solved problems:
 | PYTHONDATA | `15` |
 | CPP | `13` |
 | MYSQL | `5` |
-| BASH | `3` |
+| BASH | `4` |
 | C | `1` |

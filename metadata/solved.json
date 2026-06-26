@@ -575,5 +575,20 @@
     "runtime": "73 ms",
     "memory": "3.9 MB",
     "path": "solutions/Shell/0194_Transpose_File/solution.sh"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "192",
+    "title": "Word Frequency",
+    "slug": "word-frequency",
+    "difficulty": "Medium",
+    "topics": [
+      "Shell"
+    ],
+    "language": "Bash",
+    "timestamp": "2026-06-26T11:08:14.208Z",
+    "runtime": "84 ms",
+    "memory": "3.8 MB",
+    "path": "solutions/Shell/0192_Word_Frequency/solution.sh"
   }
 ]

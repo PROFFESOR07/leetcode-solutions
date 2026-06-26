@@ -477,6 +477,19 @@
       "languages": [
         "bash"
       ]
+    },
+    {
+      "id": "192",
+      "title": "Word Frequency",
+      "slug": "word-frequency",
+      "difficulty": "Medium",
+      "topics": [
+        "Shell"
+      ],
+      "patterns": [],
+      "languages": [
+        "bash"
+      ]
     }
   ]
 }

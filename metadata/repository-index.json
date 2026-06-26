@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-26T11:05:15.129Z",
-  "totalSolved": 37,
+  "lastUpdated": "2026-06-26T11:08:19.835Z",
+  "totalSolved": 38,
   "languages": {
     "cpp": 13,
     "c": 1,
     "pythondata": 15,
     "mysql": 5,
-    "bash": 3
+    "bash": 4
   },
   "files": {
     "1_cpp": "solutions/Array/0001_Two_Sum/solution.cpp",
@@ -46,7 +46,8 @@
     "1683_mysql": "solutions/Database/1683_Invalid_Tweets/solution.sql",
     "195_bash": "solutions/Shell/0195_Tenth_Line/solution.sh",
     "193_bash": "solutions/Shell/0193_Valid_Phone_Numbers/solution.sh",
-    "194_bash": "solutions/Shell/0194_Transpose_File/solution.sh"
+    "194_bash": "solutions/Shell/0194_Transpose_File/solution.sh",
+    "192_bash": "solutions/Shell/0192_Word_Frequency/solution.sh"
   },
   "analytics": {
     "streaks": {
@@ -56,7 +57,7 @@
     },
     "difficulties": {
       "easy": 28,
-      "medium": 8,
+      "medium": 9,
       "hard": 1
     },
     "topics": {
@@ -129,8 +130,8 @@
         "accepted": 5
       },
       "Shell": {
-        "attempted": 3,
-        "accepted": 3
+        "attempted": 4,
+        "accepted": 4
       }
     },
     "patterns": {

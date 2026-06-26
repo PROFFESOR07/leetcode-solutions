@@ -18,6 +18,7 @@ Timeline of all solved questions (ordered by ID):
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | **Medium** | Linked List, Two Pointers | `C++` | [View Solution](../solutions/Linked_List/0061_Rotate_List/solution.cpp) | 22 Jun 2026 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | **Easy** | Array, Dynamic Programming | `C++` | [View Solution](../solutions/Array/0121_Best_Time_to_Buy_and_Sell_Stock/solution.cpp) | 25 Jun 2026 |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | **Easy** | Array, Hash Table, Divide and Conquer, Sorting, Counting | `C++` | [View Solution](../solutions/Array/0169_Majority_Element/solution.cpp) | 25 Jun 2026 |
+| 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | **Medium** | Shell | `Bash` | [View Solution](../solutions/Shell/0192_Word_Frequency/solution.sh) | 26 Jun 2026 |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | **Easy** | Shell | `Bash` | [View Solution](../solutions/Shell/0193_Valid_Phone_Numbers/solution.sh) | 26 Jun 2026 |
 | 194 | [Transpose File](https://leetcode.com/problems/transpose-file/) | **Medium** | Shell | `Bash` | [View Solution](../solutions/Shell/0194_Transpose_File/solution.sh) | 26 Jun 2026 |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | **Easy** | Shell | `Bash` | [View Solution](../solutions/Shell/0195_Tenth_Line/solution.sh) | 26 Jun 2026 |
