@@ -6,6 +6,6 @@ Distribution of solved problems:
 | :--- | :--- |
 | PYTHONDATA | `15` |
 | CPP | `13` |
-| MYSQL | `6` |
+| MYSQL | `7` |
 | BASH | `4` |
 | C | `1` |

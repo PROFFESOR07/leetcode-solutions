@@ -605,5 +605,20 @@
     "runtime": "1449 ms",
     "memory": "0B",
     "path": "solutions/Database/1378_Replace_Employee_ID_With_The_Unique_Identifier/solution.sql"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "1068",
+    "title": "Product Sales Analysis I",
+    "slug": "product-sales-analysis-i",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "timestamp": "2026-06-26T11:26:49.845Z",
+    "runtime": "1186 ms",
+    "memory": "0B",
+    "path": "solutions/Database/1068_Product_Sales_Analysis_I/solution.sql"
   }
 ]

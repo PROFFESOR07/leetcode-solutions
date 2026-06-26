@@ -25,6 +25,7 @@ Timeline of all solved questions (ordered by ID):
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | **Easy** | Math, Brainteaser, Game Theory | `C++` | [View Solution](../solutions/Math/0292_Nim_Game/solution.cpp) | 24 Jun 2026 |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/0584_Find_Customer_Referee/solution.sql) | 26 Jun 2026 |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/0595_Big_Countries/solution.sql) | 26 Jun 2026 |
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/1068_Product_Sales_Analysis_I/solution.sql) | 26 Jun 2026 |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/1148_Article_Views_I/solution.sql) | 26 Jun 2026 |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/1378_Replace_Employee_ID_With_The_Unique_Identifier/solution.sql) | 26 Jun 2026 |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/1683_Invalid_Tweets/solution.sql) | 26 Jun 2026 |

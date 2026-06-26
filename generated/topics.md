@@ -5,7 +5,7 @@
 | Topic | Attempted | Accepted | Acceptance Rate |
 | :--- | :--- | :--- | :--- |
 | Uncategorized | `15` | `15` | `100%` |
-| Database | `6` | `6` | `100%` |
+| Database | `7` | `7` | `100%` |
 | Array | `7` | `5` | `71%` |
 | Math | `5` | `5` | `100%` |
 | Recursion | `4` | `4` | `100%` |

@@ -4,9 +4,9 @@
 
 | Difficulty | Solved | Percentage | Progress Bar |
 | :--- | :--- | :--- | :--- |
-| 🟢 **Easy** | `29` | `74%` | `███████████████░░░░░` |
+| 🟢 **Easy** | `30` | `75%` | `███████████████░░░░░` |
 | 🟡 **Medium** | `9` | `23%` | `█████░░░░░░░░░░░░░░░` |
 | 🔴 **Hard** | `1` | `3%` | `█░░░░░░░░░░░░░░░░░░░` |
-| **Total** | `39` | `100%` | |
+| **Total** | `40` | `100%` | |
 
 *Note: Percentages represent relative distribution.*
