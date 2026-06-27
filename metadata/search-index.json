@@ -546,6 +546,20 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "326",
+      "title": "Power of Three",
+      "slug": "power-of-three",
+      "difficulty": "Easy",
+      "topics": [
+        "Math",
+        "Recursion"
+      ],
+      "patterns": [],
+      "languages": [
+        "c++"
+      ]
     }
   ]
 }

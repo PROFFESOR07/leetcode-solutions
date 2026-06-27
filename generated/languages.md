@@ -4,7 +4,7 @@ Distribution of solved problems:
 
 | Language | Solves |
 | :--- | :--- |
-| CPP | `15` |
+| CPP | `16` |
 | PYTHONDATA | `15` |
 | MYSQL | `7` |
 | BASH | `4` |

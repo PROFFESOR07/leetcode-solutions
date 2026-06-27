@@ -24,6 +24,7 @@ Timeline of all solved questions (ordered by ID):
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | **Easy** | Shell | `Bash` | [View Solution](../solutions/Shell/0195_Tenth_Line/solution.sh) | 26 Jun 2026 |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | **Easy** | Math, Bit Manipulation, Recursion | `C++` | [View Solution](../solutions/Math/0231_Power_of_Two/solution.cpp) | 27 Jun 2026 |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | **Easy** | Math, Brainteaser, Game Theory | `C++` | [View Solution](../solutions/Math/0292_Nim_Game/solution.cpp) | 24 Jun 2026 |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | **Easy** | Math, Recursion | `C++` | [View Solution](../solutions/Math/0326_Power_of_Three/solution.cpp) | 27 Jun 2026 |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | **Easy** | Math, Bit Manipulation, Recursion | `C++` | [View Solution](../solutions/Math/0342_Power_of_Four/solution.cpp) | 27 Jun 2026 |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/0584_Find_Customer_Referee/solution.sql) | 26 Jun 2026 |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/0595_Big_Countries/solution.sql) | 26 Jun 2026 |

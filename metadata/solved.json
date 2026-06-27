@@ -654,5 +654,21 @@
     "runtime": "0 ms",
     "memory": "7.8 MB",
     "path": "solutions/Math/0342_Power_of_Four/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "326",
+    "title": "Power of Three",
+    "slug": "power-of-three",
+    "difficulty": "Easy",
+    "topics": [
+      "Math",
+      "Recursion"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-27T05:46:25.421Z",
+    "runtime": "0 ms",
+    "memory": "8.8 MB",
+    "path": "solutions/Math/0326_Power_of_Three/solution.cpp"
   }
 ]
