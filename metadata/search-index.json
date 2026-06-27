@@ -617,6 +617,20 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "541",
+      "title": "Reverse String II",
+      "slug": "reverse-string-ii",
+      "difficulty": "Easy",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "patterns": [],
+      "languages": [
+        "c++"
+      ]
     }
   ]
 }

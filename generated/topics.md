@@ -9,8 +9,8 @@
 | Recursion | `8` | `8` | `100%` |
 | Database | `8` | `8` | `100%` |
 | Array | `7` | `5` | `71%` |
-| Two Pointers | `4` | `4` | `100%` |
-| String | `4` | `4` | `100%` |
+| Two Pointers | `5` | `5` | `100%` |
+| String | `5` | `5` | `100%` |
 | Shell | `4` | `4` | `100%` |
 | Hash Table | `5` | `3` | `60%` |
 | Linked List | `3` | `3` | `100%` |

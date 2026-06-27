@@ -735,5 +735,21 @@
     "runtime": "1 ms",
     "memory": "8.8 MB",
     "path": "solutions/Two_Pointers/3794_Reverse_String_Prefix/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "541",
+    "title": "Reverse String II",
+    "slug": "reverse-string-ii",
+    "difficulty": "Easy",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-27T18:46:24.223Z",
+    "runtime": "0 ms",
+    "memory": "9.5 MB",
+    "path": "solutions/Two_Pointers/0541_Reverse_String_II/solution.cpp"
   }
 ]

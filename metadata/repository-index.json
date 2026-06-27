@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-27T17:56:56.289Z",
-  "totalSolved": 47,
+  "lastUpdated": "2026-06-27T18:46:28.700Z",
+  "totalSolved": 48,
   "languages": {
-    "cpp": 19,
+    "cpp": 20,
     "c": 1,
     "pythondata": 15,
     "mysql": 8,
@@ -56,7 +56,8 @@
     "509_cpp": "solutions/Math/0509_Fibonacci_Number/solution.cpp",
     "1581_mysql": "solutions/Database/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions/solution.sql",
     "344_cpp": "solutions/Two_Pointers/0344_Reverse_String/solution.cpp",
-    "3794_cpp": "solutions/Two_Pointers/3794_Reverse_String_Prefix/solution.cpp"
+    "3794_cpp": "solutions/Two_Pointers/3794_Reverse_String_Prefix/solution.cpp",
+    "541_cpp": "solutions/Two_Pointers/0541_Reverse_String_II/solution.cpp"
   },
   "analytics": {
     "streaks": {
@@ -65,7 +66,7 @@
       "lastSolveDate": "2026-06-27"
     },
     "difficulties": {
-      "easy": 37,
+      "easy": 38,
       "medium": 9,
       "hard": 1
     },
@@ -91,12 +92,12 @@
         "accepted": 8
       },
       "Two Pointers": {
-        "attempted": 4,
-        "accepted": 4
+        "attempted": 5,
+        "accepted": 5
       },
       "String": {
-        "attempted": 4,
-        "accepted": 4
+        "attempted": 5,
+        "accepted": 5
       },
       "Dynamic Programming": {
         "attempted": 3,
@@ -152,7 +153,7 @@
       }
     },
     "patterns": {
-      "TwoPointers": 9,
+      "TwoPointers": 10,
       "FastSlowPointers": 3,
       "DynamicProgramming": 3,
       "Backtracking": 2,
