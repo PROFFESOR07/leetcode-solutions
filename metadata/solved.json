@@ -637,5 +637,22 @@
     "runtime": "0 ms",
     "memory": "7.8 MB",
     "path": "solutions/Math/0231_Power_of_Two/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "342",
+    "title": "Power of Four",
+    "slug": "power-of-four",
+    "difficulty": "Easy",
+    "topics": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-27T05:36:27.524Z",
+    "runtime": "0 ms",
+    "memory": "7.8 MB",
+    "path": "solutions/Math/0342_Power_of_Four/solution.cpp"
   }
 ]
