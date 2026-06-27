@@ -574,5 +574,17 @@
     "runtime": "0 ms",
     "memory": "27.1 MB",
     "timestamp": "2026-06-27T17:50:43.630Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "3794",
+    "title": "Reverse String Prefix",
+    "slug": "reverse-string-prefix",
+    "difficulty": "Easy",
+    "language": "C++",
+    "verdict": "Accepted",
+    "runtime": "1 ms",
+    "memory": "8.8 MB",
+    "timestamp": "2026-06-27T17:56:49.387Z"
   }
 ]

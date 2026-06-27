@@ -603,6 +603,20 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "3794",
+      "title": "Reverse String Prefix",
+      "slug": "reverse-string-prefix",
+      "difficulty": "Easy",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "patterns": [],
+      "languages": [
+        "c++"
+      ]
     }
   ]
 }

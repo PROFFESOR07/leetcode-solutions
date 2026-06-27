@@ -9,11 +9,11 @@
 | Recursion | `8` | `8` | `100%` |
 | Database | `8` | `8` | `100%` |
 | Array | `7` | `5` | `71%` |
+| Two Pointers | `4` | `4` | `100%` |
+| String | `4` | `4` | `100%` |
 | Shell | `4` | `4` | `100%` |
 | Hash Table | `5` | `3` | `60%` |
 | Linked List | `3` | `3` | `100%` |
-| Two Pointers | `3` | `3` | `100%` |
-| String | `3` | `3` | `100%` |
 | Dynamic Programming | `3` | `3` | `100%` |
 | Backtracking | `2` | `2` | `100%` |
 | Bit Manipulation | `2` | `2` | `100%` |
