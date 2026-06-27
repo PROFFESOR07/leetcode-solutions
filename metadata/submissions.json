@@ -562,5 +562,17 @@
     "runtime": "1464 ms",
     "memory": "0B",
     "timestamp": "2026-06-27T11:22:13.057Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "344",
+    "title": "Reverse String",
+    "slug": "reverse-string",
+    "difficulty": "Easy",
+    "language": "C++",
+    "verdict": "Accepted",
+    "runtime": "0 ms",
+    "memory": "27.1 MB",
+    "timestamp": "2026-06-27T17:50:43.630Z"
   }
 ]

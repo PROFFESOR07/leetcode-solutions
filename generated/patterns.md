@@ -4,7 +4,7 @@ Paradigms detected based on topic mappings:
 
 | Pattern | Solved Count |
 | :--- | :--- |
-| TwoPointers | `7` |
+| TwoPointers | `8` |
 | FastSlowPointers | `3` |
 | DynamicProgramming | `3` |
 | Backtracking | `2` |

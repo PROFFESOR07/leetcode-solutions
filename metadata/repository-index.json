@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-27T11:22:19.539Z",
-  "totalSolved": 45,
+  "lastUpdated": "2026-06-27T17:50:51.162Z",
+  "totalSolved": 46,
   "languages": {
-    "cpp": 17,
+    "cpp": 18,
     "c": 1,
     "pythondata": 15,
     "mysql": 8,
@@ -54,7 +54,8 @@
     "342_cpp": "solutions/Math/0342_Power_of_Four/solution.cpp",
     "326_cpp": "solutions/Math/0326_Power_of_Three/solution.cpp",
     "509_cpp": "solutions/Math/0509_Fibonacci_Number/solution.cpp",
-    "1581_mysql": "solutions/Database/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions/solution.sql"
+    "1581_mysql": "solutions/Database/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions/solution.sql",
+    "344_cpp": "solutions/Two_Pointers/0344_Reverse_String/solution.cpp"
   },
   "analytics": {
     "streaks": {
@@ -63,7 +64,7 @@
       "lastSolveDate": "2026-06-27"
     },
     "difficulties": {
-      "easy": 35,
+      "easy": 36,
       "medium": 9,
       "hard": 1
     },
@@ -89,12 +90,12 @@
         "accepted": 8
       },
       "Two Pointers": {
-        "attempted": 2,
-        "accepted": 2
+        "attempted": 3,
+        "accepted": 3
       },
       "String": {
-        "attempted": 2,
-        "accepted": 2
+        "attempted": 3,
+        "accepted": 3
       },
       "Dynamic Programming": {
         "attempted": 3,
@@ -150,7 +151,7 @@
       }
     },
     "patterns": {
-      "TwoPointers": 7,
+      "TwoPointers": 8,
       "FastSlowPointers": 3,
       "DynamicProgramming": 3,
       "Backtracking": 2,
