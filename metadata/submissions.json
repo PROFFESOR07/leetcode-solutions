@@ -550,5 +550,17 @@
     "runtime": "14 ms",
     "memory": "7.7 MB",
     "timestamp": "2026-06-27T10:25:58.749Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "1581",
+    "title": "Customer Who Visited but Did Not Make Any Transactions",
+    "slug": "customer-who-visited-but-did-not-make-any-transactions",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "verdict": "Accepted",
+    "runtime": "1464 ms",
+    "memory": "0B",
+    "timestamp": "2026-06-27T11:22:13.057Z"
   }
 ]

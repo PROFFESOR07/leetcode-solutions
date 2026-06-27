@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-27T10:26:05.990Z",
-  "totalSolved": 44,
+  "lastUpdated": "2026-06-27T11:22:19.539Z",
+  "totalSolved": 45,
   "languages": {
     "cpp": 17,
     "c": 1,
     "pythondata": 15,
-    "mysql": 7,
+    "mysql": 8,
     "bash": 4
   },
   "files": {
@@ -53,7 +53,8 @@
     "231_cpp": "solutions/Math/0231_Power_of_Two/solution.cpp",
     "342_cpp": "solutions/Math/0342_Power_of_Four/solution.cpp",
     "326_cpp": "solutions/Math/0326_Power_of_Three/solution.cpp",
-    "509_cpp": "solutions/Math/0509_Fibonacci_Number/solution.cpp"
+    "509_cpp": "solutions/Math/0509_Fibonacci_Number/solution.cpp",
+    "1581_mysql": "solutions/Database/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions/solution.sql"
   },
   "analytics": {
     "streaks": {
@@ -62,7 +63,7 @@
       "lastSolveDate": "2026-06-27"
     },
     "difficulties": {
-      "easy": 34,
+      "easy": 35,
       "medium": 9,
       "hard": 1
     },
@@ -132,8 +133,8 @@
         "accepted": 15
       },
       "Database": {
-        "attempted": 7,
-        "accepted": 7
+        "attempted": 8,
+        "accepted": 8
       },
       "Shell": {
         "attempted": 4,
