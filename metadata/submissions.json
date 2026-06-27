@@ -502,5 +502,17 @@
     "runtime": "1186 ms",
     "memory": "0B",
     "timestamp": "2026-06-26T11:26:49.845Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "231",
+    "title": "Power of Two",
+    "slug": "power-of-two",
+    "difficulty": "Easy",
+    "language": "C++",
+    "verdict": "Accepted",
+    "runtime": "0 ms",
+    "memory": "7.8 MB",
+    "timestamp": "2026-06-27T05:34:12.879Z"
   }
 ]

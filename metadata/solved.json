@@ -620,5 +620,22 @@
     "runtime": "1186 ms",
     "memory": "0B",
     "path": "solutions/Database/1068_Product_Sales_Analysis_I/solution.sql"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "231",
+    "title": "Power of Two",
+    "slug": "power-of-two",
+    "difficulty": "Easy",
+    "topics": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-27T05:34:12.879Z",
+    "runtime": "0 ms",
+    "memory": "7.8 MB",
+    "path": "solutions/Math/0231_Power_of_Two/solution.cpp"
   }
 ]

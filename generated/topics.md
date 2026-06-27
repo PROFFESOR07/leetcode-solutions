@@ -6,9 +6,9 @@
 | :--- | :--- | :--- | :--- |
 | Uncategorized | `15` | `15` | `100%` |
 | Database | `7` | `7` | `100%` |
+| Math | `6` | `6` | `100%` |
 | Array | `7` | `5` | `71%` |
-| Math | `5` | `5` | `100%` |
-| Recursion | `4` | `4` | `100%` |
+| Recursion | `5` | `5` | `100%` |
 | Shell | `4` | `4` | `100%` |
 | Hash Table | `5` | `3` | `60%` |
 | Linked List | `3` | `3` | `100%` |
@@ -22,6 +22,7 @@
 | Sorting | `1` | `1` | `100%` |
 | Counting | `1` | `1` | `100%` |
 | Sliding Window | `1` | `1` | `100%` |
+| Bit Manipulation | `1` | `1` | `100%` |
 
 ## Analytics Insights
 
