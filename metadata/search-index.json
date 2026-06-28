@@ -644,6 +644,20 @@
       "languages": [
         "mysql"
       ]
+    },
+    {
+      "id": "3945",
+      "title": "Digit Frequency Score",
+      "slug": "digit-frequency-score",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "Math"
+      ],
+      "patterns": [],
+      "languages": [
+        "c++"
+      ]
     }
   ]
 }

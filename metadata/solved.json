@@ -766,5 +766,21 @@
     "runtime": "405 ms",
     "memory": "0B",
     "path": "solutions/Database/0197_Rising_Temperature/solution.sql"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "3945",
+    "title": "Digit Frequency Score",
+    "slug": "digit-frequency-score",
+    "difficulty": "Easy",
+    "topics": [
+      "Hash Table",
+      "Math"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-28T12:21:37.453Z",
+    "runtime": "0 ms",
+    "memory": "8.5 MB",
+    "path": "solutions/Hash_Table/3945_Digit_Frequency_Score/solution.cpp"
   }
 ]

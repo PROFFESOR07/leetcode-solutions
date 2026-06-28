@@ -5,14 +5,14 @@
 | Topic | Attempted | Accepted | Acceptance Rate |
 | :--- | :--- | :--- | :--- |
 | Uncategorized | `15` | `15` | `100%` |
-| Math | `9` | `9` | `100%` |
+| Math | `10` | `10` | `100%` |
 | Database | `9` | `9` | `100%` |
 | Recursion | `8` | `8` | `100%` |
 | Array | `7` | `5` | `71%` |
 | Two Pointers | `5` | `5` | `100%` |
 | String | `5` | `5` | `100%` |
+| Hash Table | `6` | `4` | `67%` |
 | Shell | `4` | `4` | `100%` |
-| Hash Table | `5` | `3` | `60%` |
 | Linked List | `3` | `3` | `100%` |
 | Dynamic Programming | `3` | `3` | `100%` |
 | Backtracking | `2` | `2` | `100%` |

@@ -610,5 +610,17 @@
     "runtime": "405 ms",
     "memory": "0B",
     "timestamp": "2026-06-28T12:09:00.150Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "3945",
+    "title": "Digit Frequency Score",
+    "slug": "digit-frequency-score",
+    "difficulty": "Easy",
+    "language": "C++",
+    "verdict": "Accepted",
+    "runtime": "0 ms",
+    "memory": "8.5 MB",
+    "timestamp": "2026-06-28T12:21:37.453Z"
   }
 ]

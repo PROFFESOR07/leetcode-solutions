@@ -55,3 +55,4 @@ Timeline of all solved questions (ordered by ID):
 | 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2890_Reshape_Data_Melt/solution.txt) | 25 Jun 2026 |
 | 2891 | [Method Chaining](https://leetcode.com/problems/method-chaining/) | **Easy** |  | `pythondata` | [View Solution](../solutions/Uncategorized/2891_Method_Chaining/solution.txt) | 25 Jun 2026 |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | **Easy** | Two Pointers, String | `C++` | [View Solution](../solutions/Two_Pointers/3794_Reverse_String_Prefix/solution.cpp) | 27 Jun 2026 |
+| 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | **Easy** | Hash Table, Math | `C++` | [View Solution](../solutions/Hash_Table/3945_Digit_Frequency_Score/solution.cpp) | 28 Jun 2026 |
