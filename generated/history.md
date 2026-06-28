@@ -22,6 +22,7 @@ Timeline of all solved questions (ordered by ID):
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | **Easy** | Shell | `Bash` | [View Solution](../solutions/Shell/0193_Valid_Phone_Numbers/solution.sh) | 26 Jun 2026 |
 | 194 | [Transpose File](https://leetcode.com/problems/transpose-file/) | **Medium** | Shell | `Bash` | [View Solution](../solutions/Shell/0194_Transpose_File/solution.sh) | 26 Jun 2026 |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | **Easy** | Shell | `Bash` | [View Solution](../solutions/Shell/0195_Tenth_Line/solution.sh) | 26 Jun 2026 |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/0197_Rising_Temperature/solution.sql) | 28 Jun 2026 |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | **Easy** | Math, Bit Manipulation, Recursion | `C++` | [View Solution](../solutions/Math/0231_Power_of_Two/solution.cpp) | 27 Jun 2026 |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | **Easy** | Math, Brainteaser, Game Theory | `C++` | [View Solution](../solutions/Math/0292_Nim_Game/solution.cpp) | 24 Jun 2026 |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | **Easy** | Math, Recursion | `C++` | [View Solution](../solutions/Math/0326_Power_of_Three/solution.cpp) | 27 Jun 2026 |

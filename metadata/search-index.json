@@ -631,6 +631,19 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "197",
+      "title": "Rising Temperature",
+      "slug": "rising-temperature",
+      "difficulty": "Easy",
+      "topics": [
+        "Database"
+      ],
+      "patterns": [],
+      "languages": [
+        "mysql"
+      ]
     }
   ]
 }

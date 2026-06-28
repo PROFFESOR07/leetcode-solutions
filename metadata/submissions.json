@@ -598,5 +598,17 @@
     "runtime": "0 ms",
     "memory": "9.5 MB",
     "timestamp": "2026-06-27T18:46:24.223Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "197",
+    "title": "Rising Temperature",
+    "slug": "rising-temperature",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "verdict": "Accepted",
+    "runtime": "405 ms",
+    "memory": "0B",
+    "timestamp": "2026-06-28T12:09:00.150Z"
   }
 ]

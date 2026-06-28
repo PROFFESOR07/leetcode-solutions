@@ -751,5 +751,20 @@
     "runtime": "0 ms",
     "memory": "9.5 MB",
     "path": "solutions/Two_Pointers/0541_Reverse_String_II/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "197",
+    "title": "Rising Temperature",
+    "slug": "rising-temperature",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "timestamp": "2026-06-28T12:09:00.150Z",
+    "runtime": "405 ms",
+    "memory": "0B",
+    "path": "solutions/Database/0197_Rising_Temperature/solution.sql"
   }
 ]
