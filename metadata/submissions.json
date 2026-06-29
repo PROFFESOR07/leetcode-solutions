@@ -622,5 +622,17 @@
     "runtime": "0 ms",
     "memory": "8.5 MB",
     "timestamp": "2026-06-28T12:21:37.453Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "1661",
+    "title": "Average Time of Process per Machine",
+    "slug": "average-time-of-process-per-machine",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "verdict": "Accepted",
+    "runtime": "250 ms",
+    "memory": "0B",
+    "timestamp": "2026-06-29T09:52:11.963Z"
   }
 ]

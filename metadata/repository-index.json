@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-28T12:21:44.041Z",
-  "totalSolved": 50,
+  "lastUpdated": "2026-06-29T09:52:18.194Z",
+  "totalSolved": 51,
   "languages": {
     "cpp": 21,
     "c": 1,
     "pythondata": 15,
-    "mysql": 9,
+    "mysql": 10,
     "bash": 4
   },
   "files": {
@@ -59,16 +59,17 @@
     "3794_cpp": "solutions/Two_Pointers/3794_Reverse_String_Prefix/solution.cpp",
     "541_cpp": "solutions/Two_Pointers/0541_Reverse_String_II/solution.cpp",
     "197_mysql": "solutions/Database/0197_Rising_Temperature/solution.sql",
-    "3945_cpp": "solutions/Hash_Table/3945_Digit_Frequency_Score/solution.cpp"
+    "3945_cpp": "solutions/Hash_Table/3945_Digit_Frequency_Score/solution.cpp",
+    "1661_mysql": "solutions/Database/1661_Average_Time_of_Process_per_Machine/solution.sql"
   },
   "analytics": {
     "streaks": {
-      "currentStreak": 7,
-      "bestStreak": 7,
-      "lastSolveDate": "2026-06-28"
+      "currentStreak": 8,
+      "bestStreak": 8,
+      "lastSolveDate": "2026-06-29"
     },
     "difficulties": {
-      "easy": 40,
+      "easy": 41,
       "medium": 9,
       "hard": 1
     },
@@ -138,8 +139,8 @@
         "accepted": 15
       },
       "Database": {
-        "attempted": 9,
-        "accepted": 9
+        "attempted": 10,
+        "accepted": 10
       },
       "Shell": {
         "attempted": 4,

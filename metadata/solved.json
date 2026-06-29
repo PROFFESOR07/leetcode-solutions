@@ -782,5 +782,20 @@
     "runtime": "0 ms",
     "memory": "8.5 MB",
     "path": "solutions/Hash_Table/3945_Digit_Frequency_Score/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "1661",
+    "title": "Average Time of Process per Machine",
+    "slug": "average-time-of-process-per-machine",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "timestamp": "2026-06-29T09:52:11.963Z",
+    "runtime": "250 ms",
+    "memory": "0B",
+    "path": "solutions/Database/1661_Average_Time_of_Process_per_Machine/solution.sql"
   }
 ]

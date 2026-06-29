@@ -658,6 +658,19 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "1661",
+      "title": "Average Time of Process per Machine",
+      "slug": "average-time-of-process-per-machine",
+      "difficulty": "Easy",
+      "topics": [
+        "Database"
+      ],
+      "patterns": [],
+      "languages": [
+        "mysql"
+      ]
     }
   ]
 }
