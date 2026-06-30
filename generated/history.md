@@ -17,6 +17,7 @@ Timeline of all solved questions (ordered by ID):
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | **Medium** | Math, Recursion | `C` | [View Solution](../solutions/Math/0050_Powx_n/solution.c) | 22 Jun 2026 |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | **Medium** | Linked List, Two Pointers | `C++` | [View Solution](../solutions/Linked_List/0061_Rotate_List/solution.cpp) | 22 Jun 2026 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | **Easy** | Array, Dynamic Programming | `C++` | [View Solution](../solutions/Array/0121_Best_Time_to_Buy_and_Sell_Stock/solution.cpp) | 25 Jun 2026 |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | **Medium** | Two Pointers, String | `C++` | [View Solution](../solutions/Two_Pointers/0151_Reverse_Words_in_a_String/solution.cpp) | 30 Jun 2026 |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | **Easy** | Array, Hash Table, Divide and Conquer, Sorting, Counting | `C++` | [View Solution](../solutions/Array/0169_Majority_Element/solution.cpp) | 25 Jun 2026 |
 | 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | **Medium** | Shell | `Bash` | [View Solution](../solutions/Shell/0192_Word_Frequency/solution.sh) | 26 Jun 2026 |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | **Easy** | Shell | `Bash` | [View Solution](../solutions/Shell/0193_Valid_Phone_Numbers/solution.sh) | 26 Jun 2026 |

@@ -812,5 +812,21 @@
     "runtime": "1027 ms",
     "memory": "0B",
     "path": "solutions/Database/0577_Employee_Bonus/solution.sql"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "151",
+    "title": "Reverse Words in a String",
+    "slug": "reverse-words-in-a-string",
+    "difficulty": "Medium",
+    "topics": [
+      "Two Pointers",
+      "String"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-30T15:57:42.576Z",
+    "runtime": "0 ms",
+    "memory": "9.8 MB",
+    "path": "solutions/Two_Pointers/0151_Reverse_Words_in_a_String/solution.cpp"
   }
 ]

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-30T10:38:07.339Z",
-  "totalSolved": 52,
+  "lastUpdated": "2026-06-30T15:57:50.620Z",
+  "totalSolved": 53,
   "languages": {
-    "cpp": 21,
+    "cpp": 22,
     "c": 1,
     "pythondata": 15,
     "mysql": 11,
@@ -61,7 +61,8 @@
     "197_mysql": "solutions/Database/0197_Rising_Temperature/solution.sql",
     "3945_cpp": "solutions/Hash_Table/3945_Digit_Frequency_Score/solution.cpp",
     "1661_mysql": "solutions/Database/1661_Average_Time_of_Process_per_Machine/solution.sql",
-    "577_mysql": "solutions/Database/0577_Employee_Bonus/solution.sql"
+    "577_mysql": "solutions/Database/0577_Employee_Bonus/solution.sql",
+    "151_cpp": "solutions/Two_Pointers/0151_Reverse_Words_in_a_String/solution.cpp"
   },
   "analytics": {
     "streaks": {
@@ -71,7 +72,7 @@
     },
     "difficulties": {
       "easy": 42,
-      "medium": 9,
+      "medium": 10,
       "hard": 1
     },
     "topics": {
@@ -96,12 +97,12 @@
         "accepted": 8
       },
       "Two Pointers": {
-        "attempted": 5,
-        "accepted": 5
+        "attempted": 6,
+        "accepted": 6
       },
       "String": {
-        "attempted": 5,
-        "accepted": 5
+        "attempted": 6,
+        "accepted": 6
       },
       "Dynamic Programming": {
         "attempted": 3,
@@ -157,7 +158,7 @@
       }
     },
     "patterns": {
-      "TwoPointers": 10,
+      "TwoPointers": 11,
       "FastSlowPointers": 3,
       "DynamicProgramming": 3,
       "Backtracking": 2,
