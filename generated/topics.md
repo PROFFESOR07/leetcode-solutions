@@ -5,8 +5,8 @@
 | Topic | Attempted | Accepted | Acceptance Rate |
 | :--- | :--- | :--- | :--- |
 | Uncategorized | `15` | `15` | `100%` |
+| Database | `11` | `11` | `100%` |
 | Math | `10` | `10` | `100%` |
-| Database | `10` | `10` | `100%` |
 | Recursion | `8` | `8` | `100%` |
 | Array | `7` | `5` | `71%` |
 | Two Pointers | `5` | `5` | `100%` |
@@ -29,5 +29,5 @@
 
 * **Strongest Topics (>=3 solves)**: `Linked List`, `Math`, `Recursion` 💪
 * **Weakest Topics (>=3 attempts)**: `Hash Table`, `Array`, `Linked List` ⚠️
-* **Most Practiced Topics**: `Uncategorized`, `Math`, `Database` 🚀
+* **Most Practiced Topics**: `Uncategorized`, `Database`, `Math` 🚀
 * **Least Practiced Topics**: `Brainteaser`, `Game Theory`, `Divide and Conquer` 🔍

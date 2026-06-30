@@ -797,5 +797,20 @@
     "runtime": "250 ms",
     "memory": "0B",
     "path": "solutions/Database/1661_Average_Time_of_Process_per_Machine/solution.sql"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "577",
+    "title": "Employee Bonus",
+    "slug": "employee-bonus",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "timestamp": "2026-06-30T10:38:01.790Z",
+    "runtime": "1027 ms",
+    "memory": "0B",
+    "path": "solutions/Database/0577_Employee_Bonus/solution.sql"
   }
 ]

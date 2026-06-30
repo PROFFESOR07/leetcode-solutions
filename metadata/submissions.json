@@ -634,5 +634,17 @@
     "runtime": "250 ms",
     "memory": "0B",
     "timestamp": "2026-06-29T09:52:11.963Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "577",
+    "title": "Employee Bonus",
+    "slug": "employee-bonus",
+    "difficulty": "Easy",
+    "language": "MySQL",
+    "verdict": "Accepted",
+    "runtime": "1027 ms",
+    "memory": "0B",
+    "timestamp": "2026-06-30T10:38:01.790Z"
   }
 ]

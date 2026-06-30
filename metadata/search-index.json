@@ -671,6 +671,19 @@
       "languages": [
         "mysql"
       ]
+    },
+    {
+      "id": "577",
+      "title": "Employee Bonus",
+      "slug": "employee-bonus",
+      "difficulty": "Easy",
+      "topics": [
+        "Database"
+      ],
+      "patterns": [],
+      "languages": [
+        "mysql"
+      ]
     }
   ]
 }
