@@ -828,5 +828,20 @@
     "runtime": "0 ms",
     "memory": "9.8 MB",
     "path": "solutions/Two_Pointers/0151_Reverse_Words_in_a_String/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "520",
+    "title": "Detect Capital",
+    "slug": "detect-capital",
+    "difficulty": "Easy",
+    "topics": [
+      "String"
+    ],
+    "language": "C++",
+    "timestamp": "2026-06-30T16:27:21.067Z",
+    "runtime": "1 ms",
+    "memory": "8.3 MB",
+    "path": "solutions/String/0520_Detect_Capital/solution.cpp"
   }
 ]

@@ -30,6 +30,7 @@ Timeline of all solved questions (ordered by ID):
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | **Easy** | Math, Bit Manipulation, Recursion | `C++` | [View Solution](../solutions/Math/0342_Power_of_Four/solution.cpp) | 27 Jun 2026 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | **Easy** | Two Pointers, String | `C++` | [View Solution](../solutions/Two_Pointers/0344_Reverse_String/solution.cpp) | 27 Jun 2026 |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | **Easy** | Math, Dynamic Programming, Recursion, Memoization | `C++` | [View Solution](../solutions/Math/0509_Fibonacci_Number/solution.cpp) | 27 Jun 2026 |
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | **Easy** | String | `C++` | [View Solution](../solutions/String/0520_Detect_Capital/solution.cpp) | 30 Jun 2026 |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | **Easy** | Two Pointers, String | `C++` | [View Solution](../solutions/Two_Pointers/0541_Reverse_String_II/solution.cpp) | 28 Jun 2026 |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/0577_Employee_Bonus/solution.sql) | 30 Jun 2026 |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | **Easy** | Database | `MySQL` | [View Solution](../solutions/Database/0584_Find_Customer_Referee/solution.sql) | 26 Jun 2026 |

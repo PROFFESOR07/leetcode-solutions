@@ -698,6 +698,19 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "520",
+      "title": "Detect Capital",
+      "slug": "detect-capital",
+      "difficulty": "Easy",
+      "topics": [
+        "String"
+      ],
+      "patterns": [],
+      "languages": [
+        "c++"
+      ]
     }
   ]
 }

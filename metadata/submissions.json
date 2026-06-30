@@ -658,5 +658,17 @@
     "runtime": "0 ms",
     "memory": "9.8 MB",
     "timestamp": "2026-06-30T15:57:42.576Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "520",
+    "title": "Detect Capital",
+    "slug": "detect-capital",
+    "difficulty": "Easy",
+    "language": "C++",
+    "verdict": "Accepted",
+    "runtime": "1 ms",
+    "memory": "8.3 MB",
+    "timestamp": "2026-06-30T16:27:21.067Z"
   }
 ]

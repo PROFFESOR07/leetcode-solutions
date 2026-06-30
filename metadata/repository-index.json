@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-30T15:57:50.620Z",
-  "totalSolved": 53,
+  "lastUpdated": "2026-06-30T16:27:29.384Z",
+  "totalSolved": 54,
   "languages": {
-    "cpp": 22,
+    "cpp": 23,
     "c": 1,
     "pythondata": 15,
     "mysql": 11,
@@ -62,7 +62,8 @@
     "3945_cpp": "solutions/Hash_Table/3945_Digit_Frequency_Score/solution.cpp",
     "1661_mysql": "solutions/Database/1661_Average_Time_of_Process_per_Machine/solution.sql",
     "577_mysql": "solutions/Database/0577_Employee_Bonus/solution.sql",
-    "151_cpp": "solutions/Two_Pointers/0151_Reverse_Words_in_a_String/solution.cpp"
+    "151_cpp": "solutions/Two_Pointers/0151_Reverse_Words_in_a_String/solution.cpp",
+    "520_cpp": "solutions/String/0520_Detect_Capital/solution.cpp"
   },
   "analytics": {
     "streaks": {
@@ -71,7 +72,7 @@
       "lastSolveDate": "2026-06-30"
     },
     "difficulties": {
-      "easy": 42,
+      "easy": 43,
       "medium": 10,
       "hard": 1
     },
@@ -101,8 +102,8 @@
         "accepted": 6
       },
       "String": {
-        "attempted": 6,
-        "accepted": 6
+        "attempted": 7,
+        "accepted": 7
       },
       "Dynamic Programming": {
         "attempted": 3,
