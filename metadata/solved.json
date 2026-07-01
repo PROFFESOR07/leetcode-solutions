@@ -858,5 +858,21 @@
     "runtime": "983 ms",
     "memory": "0B",
     "path": "solutions/Database/1280_Students_and_Examinations/solution.sql"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "238",
+    "title": "Product of Array Except Self",
+    "slug": "product-of-array-except-self",
+    "difficulty": "Medium",
+    "topics": [
+      "Array",
+      "Prefix Sum"
+    ],
+    "language": "C++",
+    "timestamp": "2026-07-01T08:56:14.930Z",
+    "runtime": "4 ms",
+    "memory": "40.1 MB",
+    "path": "solutions/Array/0238_Product_of_Array_Except_Self/solution.cpp"
   }
 ]

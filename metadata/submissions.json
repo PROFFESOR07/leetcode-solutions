@@ -682,5 +682,17 @@
     "runtime": "983 ms",
     "memory": "0B",
     "timestamp": "2026-07-01T07:29:25.999Z"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "238",
+    "title": "Product of Array Except Self",
+    "slug": "product-of-array-except-self",
+    "difficulty": "Medium",
+    "language": "C++",
+    "verdict": "Accepted",
+    "runtime": "4 ms",
+    "memory": "40.1 MB",
+    "timestamp": "2026-07-01T08:56:14.930Z"
   }
 ]

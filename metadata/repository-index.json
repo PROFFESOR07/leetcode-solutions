@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-07-01T07:29:31.252Z",
-  "totalSolved": 55,
+  "lastUpdated": "2026-07-01T08:56:20.686Z",
+  "totalSolved": 56,
   "languages": {
-    "cpp": 23,
+    "cpp": 24,
     "c": 1,
     "pythondata": 15,
     "mysql": 12,
@@ -64,7 +64,8 @@
     "577_mysql": "solutions/Database/0577_Employee_Bonus/solution.sql",
     "151_cpp": "solutions/Two_Pointers/0151_Reverse_Words_in_a_String/solution.cpp",
     "520_cpp": "solutions/String/0520_Detect_Capital/solution.cpp",
-    "1280_mysql": "solutions/Database/1280_Students_and_Examinations/solution.sql"
+    "1280_mysql": "solutions/Database/1280_Students_and_Examinations/solution.sql",
+    "238_cpp": "solutions/Array/0238_Product_of_Array_Except_Self/solution.cpp"
   },
   "analytics": {
     "streaks": {
@@ -74,13 +75,13 @@
     },
     "difficulties": {
       "easy": 44,
-      "medium": 10,
+      "medium": 11,
       "hard": 1
     },
     "topics": {
       "Array": {
-        "attempted": 7,
-        "accepted": 5
+        "attempted": 8,
+        "accepted": 6
       },
       "Hash Table": {
         "attempted": 6,
@@ -157,10 +158,14 @@
       "Memoization": {
         "attempted": 1,
         "accepted": 1
+      },
+      "Prefix Sum": {
+        "attempted": 1,
+        "accepted": 1
       }
     },
     "patterns": {
-      "TwoPointers": 11,
+      "TwoPointers": 12,
       "FastSlowPointers": 3,
       "DynamicProgramming": 3,
       "Backtracking": 2,

@@ -9,8 +9,8 @@
 | Math | `10` | `10` | `100%` |
 | Recursion | `8` | `8` | `100%` |
 | String | `7` | `7` | `100%` |
+| Array | `8` | `6` | `75%` |
 | Two Pointers | `6` | `6` | `100%` |
-| Array | `7` | `5` | `71%` |
 | Hash Table | `6` | `4` | `67%` |
 | Shell | `4` | `4` | `100%` |
 | Linked List | `3` | `3` | `100%` |
@@ -24,6 +24,7 @@
 | Counting | `1` | `1` | `100%` |
 | Sliding Window | `1` | `1` | `100%` |
 | Memoization | `1` | `1` | `100%` |
+| Prefix Sum | `1` | `1` | `100%` |
 
 ## Analytics Insights
 
