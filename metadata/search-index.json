@@ -711,6 +711,19 @@
       "languages": [
         "c++"
       ]
+    },
+    {
+      "id": "1280",
+      "title": "Students and Examinations",
+      "slug": "students-and-examinations",
+      "difficulty": "Easy",
+      "topics": [
+        "Database"
+      ],
+      "patterns": [],
+      "languages": [
+        "mysql"
+      ]
     }
   ]
 }

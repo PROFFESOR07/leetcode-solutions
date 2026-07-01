@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-06-30T16:27:29.384Z",
-  "totalSolved": 54,
+  "lastUpdated": "2026-07-01T07:29:31.252Z",
+  "totalSolved": 55,
   "languages": {
     "cpp": 23,
     "c": 1,
     "pythondata": 15,
-    "mysql": 11,
+    "mysql": 12,
     "bash": 4
   },
   "files": {
@@ -63,16 +63,17 @@
     "1661_mysql": "solutions/Database/1661_Average_Time_of_Process_per_Machine/solution.sql",
     "577_mysql": "solutions/Database/0577_Employee_Bonus/solution.sql",
     "151_cpp": "solutions/Two_Pointers/0151_Reverse_Words_in_a_String/solution.cpp",
-    "520_cpp": "solutions/String/0520_Detect_Capital/solution.cpp"
+    "520_cpp": "solutions/String/0520_Detect_Capital/solution.cpp",
+    "1280_mysql": "solutions/Database/1280_Students_and_Examinations/solution.sql"
   },
   "analytics": {
     "streaks": {
-      "currentStreak": 9,
-      "bestStreak": 9,
-      "lastSolveDate": "2026-06-30"
+      "currentStreak": 10,
+      "bestStreak": 10,
+      "lastSolveDate": "2026-07-01"
     },
     "difficulties": {
-      "easy": 43,
+      "easy": 44,
       "medium": 10,
       "hard": 1
     },
@@ -142,8 +143,8 @@
         "accepted": 15
       },
       "Database": {
-        "attempted": 11,
-        "accepted": 11
+        "attempted": 12,
+        "accepted": 12
       },
       "Shell": {
         "attempted": 4,

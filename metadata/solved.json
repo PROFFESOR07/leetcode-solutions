@@ -843,5 +843,20 @@
     "runtime": "1 ms",
     "memory": "8.3 MB",
     "path": "solutions/String/0520_Detect_Capital/solution.cpp"
+  },
+  {
+    "schemaVersion": 1,
+    "frontendId": "1280",
+    "title": "Students and Examinations",
+    "slug": "students-and-examinations",
+    "difficulty": "Easy",
+    "topics": [
+      "Database"
+    ],
+    "language": "MySQL",
+    "timestamp": "2026-07-01T07:29:25.999Z",
+    "runtime": "983 ms",
+    "memory": "0B",
+    "path": "solutions/Database/1280_Students_and_Examinations/solution.sql"
   }
 ]
